@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Sunset Bliss",
+        "gradient": "linear-gradient(to right, #ff7e5f, #feb47b)"
+    },
+    {
+        "name": "Ocean Breeze",
+        "gradient": "linear-gradient(to right, #00c6ff, #0072ff)"
+    },
+    {
+        "name": "Forest Dream",
+        "gradient": "linear-gradient(to right, #56ab2f, #a8e063)"
+    },
+    {
+        "name": "Purple Haze",
+        "gradient": "linear-gradient(to right, #a18cd1, #fbc2eb)"
+    },
+    {
+        "name": "Fiery Red",
+        "gradient": "linear-gradient(to right, #ff512f, #dd2476)"
+    }
+]
