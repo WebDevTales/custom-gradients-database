@@ -1,5 +1,85 @@
 [
     {
+        "name": "Striped Sunset",
+        "gradient": "repeating-linear-gradient(45deg, #ff7e5f, #ff7e5f 10px, #feb47b 10px, #feb47b 20px)"
+    },
+    {
+        "name": "Diagonal Waves",
+        "gradient": "linear-gradient(to right, #00c6ff 25%, transparent 25%, transparent 50%, #0072ff 50%, #0072ff 75%, transparent 75%)"
+    },
+    {
+        "name": "Gradient Checkerboard",
+        "gradient": "repeating-linear-gradient(90deg, #56ab2f, #56ab2f 20px, #a8e063 20px, #a8e063 40px)"
+    },
+    {
+        "name": "Rainbow Stripes",
+        "gradient": "repeating-linear-gradient(180deg, #a18cd1, #fbc2eb 25%, transparent 25%, transparent 50%)"
+    },
+    {
+        "name": "Pastel Polka Dots",
+        "gradient": "radial-gradient(circle, #ffafbd 10%, transparent 10%, transparent 20%), radial-gradient(circle, #ffc3a0 10%, transparent 10%, transparent 20%)"
+    },
+    {
+        "name": "Wavy Horizon",
+        "gradient": "linear-gradient(to bottom, #ff512f 40%, transparent 40%, transparent 60%, #dd2476 60%)"
+    },
+    {
+        "name": "Zigzag Flow",
+        "gradient": "repeating-linear-gradient(135deg, #24c6dc, #24c6dc 15px, #514a9d 15px, #514a9d 30px)"
+    },
+    {
+        "name": "Candy Cane",
+        "gradient": "repeating-linear-gradient(45deg, #ff9a9e, #fad0c4 20px, #fad0c4 40px)"
+    },
+    {
+        "name": "Metallic Shine",
+        "gradient": "linear-gradient(75deg, #b8c6db, #f5f7fa, #c5c6c7)"
+    },
+    {
+        "name": "Pixel Blocks",
+        "gradient": "repeating-linear-gradient(90deg, #ff6a00 10px, #ee0979 10px, #43cea2 20px)"
+    },
+    {
+        "name": "Neon Grid",
+        "gradient": "repeating-linear-gradient(90deg, #00c6ff 10%, #0072ff 10%, #0072ff 20%, transparent 20%)"
+    },
+    {
+        "name": "Blurred Stripes",
+        "gradient": "linear-gradient(to bottom, rgba(255, 94, 98, 0.5), rgba(255, 94, 98, 0)), linear-gradient(to bottom, rgba(255, 182, 98, 0.5), rgba(255, 182, 98, 0))"
+    },
+    {
+        "name": "Colorful Dashes",
+        "gradient": "repeating-linear-gradient(90deg, #f12711 15px, #f5af19 15px, #f5af19 30px)"
+    },
+    {
+        "name": "Circular Glow",
+        "gradient": "radial-gradient(circle, #a18cd1, #fbc2eb)"
+    },
+    {
+        "name": "Sharp Streaks",
+        "gradient": "linear-gradient(120deg, #6a3093 25%, transparent 25%, transparent 50%, #a044ff 50%, #a044ff 75%, transparent 75%)"
+    },
+    {
+        "name": "Bold Diagonals",
+        "gradient": "repeating-linear-gradient(135deg, #ff7e5f, #feb47b 20px, #feb47b 40px)"
+    },
+    {
+        "name": "Skyline Layers",
+        "gradient": "linear-gradient(to bottom, #ff7e5f 25%, #feb47b 25%, #fbc2eb 50%, #a8ff78 50%, #78ffd6 75%)"
+    },
+    {
+        "name": "Twilight Glow",
+        "gradient": "radial-gradient(circle, #355c7d, #6c5b7b, #c06c84)"
+    },
+    {
+        "name": "Vertical Bars",
+        "gradient": "repeating-linear-gradient(to right, #24c6dc, #24c6dc 10px, #514a9d 10px, #514a9d 20px)"
+    },
+    {
+        "name": "Shimmering Horizon",
+        "gradient": "linear-gradient(to right, #f6d365, #fda085, #f12711)"
+    }
+    {
         "name": "Tropical Sunrise",
         "gradient": "linear-gradient(to right, #ff9a9e, #fad0c4)"
     },
