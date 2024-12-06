@@ -2414,6 +2414,2674 @@
     {
         "name": "Vibrant Noise",
         "gradient": "linear-gradient(120deg, rgba(255, 94, 98, 0.7), rgba(98, 94, 255, 0.5))"
+    },
+    {
+        "name": "Royal Wave",
+        "gradient": "repeating-linear-gradient(45deg, #283593, #1e88e5 25px, #283593 50px)"
+    },
+    {
+        "name": "Tropical Orchid",
+        "gradient": "repeating-linear-gradient(90deg, #8e24aa, #d81b60 20px, #8e24aa 40px)"
+    },
+    {
+        "name": "Golden Mirage",
+        "gradient": "repeating-linear-gradient(135deg, #ffd54f, #ffb300 25px, #ffd54f 50px)"
+    },
+    {
+        "name": "Cherry Blossom",
+        "gradient": "repeating-linear-gradient(to right, #f8bbd0, #f48fb1 20px, #f8bbd0 40px)"
+    },
+    {
+        "name": "Emerald Glow",
+        "gradient": "repeating-linear-gradient(45deg, #2e7d32, #66bb6a 20px, #2e7d32 40px)"
+    },
+    {
+        "name": "Neon Sunset",
+        "gradient": "repeating-linear-gradient(90deg, #ff4081, #d500f9 15px, #ff4081 30px)"
+    },
+    {
+        "name": "Blue Lagoon",
+        "gradient": "repeating-linear-gradient(135deg, #01579b, #0288d1 20px, #01579b 40px)"
+    },
+    {
+        "name": "Mint Julep",
+        "gradient": "repeating-linear-gradient(to right, #80e4c1, #4caf50 25px, #80e4c1 50px)"
+    },
+    {
+        "name": "Electric Pulse",
+        "gradient": "repeating-linear-gradient(45deg, #9c27b0, #7e57c2 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Amber Twilight",
+        "gradient": "repeating-linear-gradient(90deg, #ff7043, #ff5722 20px, #ff7043 40px)"
+    },
+    {
+        "name": "Minty Glow",
+        "gradient": "repeating-linear-gradient(135deg, #80cbc4, #00796b 25px, #80cbc4 50px)"
+    },
+    {
+        "name": "Golden Touch",
+        "gradient": "repeating-linear-gradient(to right, #ffd600, #ff9800 20px, #ffd600 40px)"
+    },
+    {
+        "name": "Moonlit Dream",
+        "gradient": "repeating-linear-gradient(45deg, #90a4ae, #607d8b 20px, #90a4ae 40px)"
+    },
+    {
+        "name": "Turquoise Escape",
+        "gradient": "repeating-linear-gradient(90deg, #26c6da, #00bcd4 20px, #26c6da 40px)"
+    },
+    {
+        "name": "Sunset Tranquil",
+        "gradient": "repeating-linear-gradient(135deg, #ff7043, #ff5722 25px, #ff7043 50px)"
+    },
+    {
+        "name": "Citrus Delight",
+        "gradient": "repeating-linear-gradient(to right, #ff9800, #ff5722 25px, #ff9800 50px)"
+    },
+    {
+        "name": "Fiery Blaze",
+        "gradient": "repeating-linear-gradient(45deg, #f44336, #d32f2f 20px, #f44336 40px)"
+    },
+    {
+        "name": "Caribbean Breeze",
+        "gradient": "repeating-linear-gradient(90deg, #00acc1, #00897b 15px, #00acc1 30px)"
+    },
+    {
+        "name": "Grape Escape",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #ab47bc 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Crystal Clear",
+        "gradient": "repeating-linear-gradient(to right, #00bcd4, #009688 20px, #00bcd4 40px)"
+    },
+    {
+        "name": "Pineapple Wave",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #ff9800 25px, #ffeb3b 50px)"
+    },
+    {
+        "name": "Coral Rush",
+        "gradient": "repeating-linear-gradient(90deg, #ff5722, #d32f2f 25px, #ff5722 50px)"
+    },
+    {
+        "name": "Mint Mirage",
+        "gradient": "repeating-linear-gradient(135deg, #4caf50, #66bb6a 25px, #4caf50 50px)"
+    },
+    {
+        "name": "Ocean Bliss",
+        "gradient": "repeating-linear-gradient(to right, #00bcd4, #0288d1 25px, #00bcd4 50px)"
+    },
+    {
+        "name": "Crimson Oasis",
+        "gradient": "repeating-linear-gradient(45deg, #e53935, #c2185b 25px, #e53935 50px)"
+    },
+    {
+        "name": "Sunset Gloam",
+        "gradient": "repeating-linear-gradient(90deg, #f44336, #ff5722 25px, #f44336 50px)"
+    },
+    {
+        "name": "Tangerine Dream",
+        "gradient": "repeating-linear-gradient(135deg, #ff9800, #ff5722 20px, #ff9800 40px)"
+    },
+    {
+        "name": "Rose Haze",
+        "gradient": "repeating-linear-gradient(to right, #f06292, #f50057 25px, #f06292 50px)"
+    },
+    {
+        "name": "Deep Sapphire",
+        "gradient": "repeating-linear-gradient(45deg, #01579b, #0288d1 25px, #01579b 50px)"
+    },
+    {
+        "name": "Blazing Sun",
+        "gradient": "repeating-linear-gradient(90deg, #ffeb3b, #ff9800 25px, #ffeb3b 50px)"
+    },
+    {
+        "name": "Pink Glow",
+        "gradient": "repeating-linear-gradient(135deg, #ff4081, #f50057 20px, #ff4081 40px)"
+    },
+    {
+        "name": "Lush Forest",
+        "gradient": "repeating-linear-gradient(to right, #388e3c, #4caf50 25px, #388e3c 50px)"
+    },
+    {
+        "name": "Amber Pulse",
+        "gradient": "repeating-linear-gradient(45deg, #ff9800, #ff5722 25px, #ff9800 50px)"
+    },
+    {
+        "name": "Lavender Dawn",
+        "gradient": "repeating-linear-gradient(90deg, #9c27b0, #8e24aa 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Neon Lights",
+        "gradient": "repeating-linear-gradient(45deg, #00e5ff, #3d5afe 25px, #00e5ff 50px)"
+    },
+    {
+        "name": "Blush Pink",
+        "gradient": "repeating-linear-gradient(90deg, #ff6f61, #ff8a80 20px, #ff6f61 40px)"
+    },
+    {
+        "name": "Celestial Blue",
+        "gradient": "repeating-linear-gradient(135deg, #2196f3, #64b5f6 25px, #2196f3 50px)"
+    },
+    {
+        "name": "Golden Hour",
+        "gradient": "repeating-linear-gradient(45deg, #ffb74d, #ff9800 25px, #ffb74d 50px)"
+    },
+    {
+        "name": "Tropical Paradise",
+        "gradient": "repeating-linear-gradient(90deg, #00bcd4, #00acc1 20px, #00bcd4 40px)"
+    },
+    {
+        "name": "Plum Blossom",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #d81b60 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Copper Shine",
+        "gradient": "repeating-linear-gradient(45deg, #ff7043, #f4511e 25px, #ff7043 50px)"
+    },
+    {
+        "name": "Minty Dream",
+        "gradient": "repeating-linear-gradient(90deg, #4caf50, #66bb6a 20px, #4caf50 40px)"
+    },
+    {
+        "name": "Crimson Kiss",
+        "gradient": "repeating-linear-gradient(135deg, #e53935, #d32f2f 25px, #e53935 50px)"
+    },
+    {
+        "name": "Amethyst Twilight",
+        "gradient": "repeating-linear-gradient(45deg, #9c27b0, #8e24aa 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Electric Sunset",
+        "gradient": "repeating-linear-gradient(90deg, #ff4081, #d500f9 25px, #ff4081 50px)"
+    },
+    {
+        "name": "Tangerine Spark",
+        "gradient": "repeating-linear-gradient(135deg, #ff5722, #ff9800 20px, #ff5722 40px)"
+    },
+    {
+        "name": "Lavender Bliss",
+        "gradient": "repeating-linear-gradient(45deg, #ab47bc, #8e24aa 25px, #ab47bc 50px)"
+    },
+    {
+        "name": "Amber Glow",
+        "gradient": "repeating-linear-gradient(90deg, #ffeb3b, #ff9800 25px, #ffeb3b 50px)"
+    },
+    {
+        "name": "Neon Pulse",
+        "gradient": "repeating-linear-gradient(135deg, #e040fb, #7c4dff 25px, #e040fb 50px)"
+    },
+    {
+        "name": "Berry Smoothie",
+        "gradient": "repeating-linear-gradient(45deg, #f50057, #d500f9 25px, #f50057 50px)"
+    },
+    {
+        "name": "Skyline",
+        "gradient": "repeating-linear-gradient(90deg, #3f51b5, #2196f3 20px, #3f51b5 40px)"
+    },
+    {
+        "name": "Twilight Sky",
+        "gradient": "repeating-linear-gradient(135deg, #2196f3, #64b5f6 25px, #2196f3 50px)"
+    },
+    {
+        "name": "Tropic Breeze",
+        "gradient": "repeating-linear-gradient(45deg, #00bcd4, #26c6da 25px, #00bcd4 50px)"
+    },
+    {
+        "name": "Fiery Storm",
+        "gradient": "repeating-linear-gradient(90deg, #d32f2f, #f44336 25px, #d32f2f 50px)"
+    },
+    {
+        "name": "Violet Haze",
+        "gradient": "repeating-linear-gradient(135deg, #8e24aa, #9c27b0 25px, #8e24aa 50px)"
+    },
+    {
+        "name": "Citrus Burst",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #ff9800 25px, #ffeb3b 50px)"
+    },
+    {
+        "name": "Aquatic Rush",
+        "gradient": "repeating-linear-gradient(90deg, #0288d1, #039be5 20px, #0288d1 40px)"
+    },
+    {
+        "name": "Lavender Whisper",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #8e24aa 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Sunset Glow",
+        "gradient": "repeating-linear-gradient(45deg, #ff7043, #ff5722 25px, #ff7043 50px)"
+    },
+    {
+        "name": "Moonlit Nights",
+        "gradient": "repeating-linear-gradient(90deg, #01579b, #0288d1 25px, #01579b 50px)"
+    },
+    {
+        "name": "Candy Crush",
+        "gradient": "repeating-linear-gradient(135deg, #f48fb1, #f50057 25px, #f48fb1 50px)"
+    },
+    {
+        "name": "Soft Breeze",
+        "gradient": "repeating-linear-gradient(45deg, #00acc1, #00bcd4 25px, #00acc1 50px)"
+    },
+    {
+        "name": "Frosted Plum",
+        "gradient": "repeating-linear-gradient(90deg, #8e24aa, #6a1b9a 25px, #8e24aa 50px)"
+    },
+    {
+        "name": "Sunset Horizon",
+        "gradient": "repeating-linear-gradient(135deg, #ff7043, #ff5722 25px, #ff7043 50px)"
+    },
+    {
+        "name": "Lilac Dream",
+        "gradient": "repeating-linear-gradient(45deg, #ab47bc, #9c27b0 25px, #ab47bc 50px)"
+    },
+    {
+        "name": "Tropical Nectar",
+        "gradient": "repeating-linear-gradient(90deg, #ffeb3b, #ff9800 25px, #ffeb3b 50px)"
+    },
+    {
+        "name": "Radiant Aurora",
+        "gradient": "repeating-linear-gradient(60deg, #8e2de2, #4a00e0 30px, #8e2de2 60px)"
+    },
+    {
+        "name": "Midnight Storm",
+        "gradient": "repeating-linear-gradient(120deg, #1a237e, #283593 25px, #1a237e 50px)"
+    },
+    {
+        "name": "Coral Reef",
+        "gradient": "repeating-linear-gradient(45deg, #ff6f61, #ff8a80 30px, #ff6f61 60px)"
+    },
+    {
+        "name": "Electric Blue",
+        "gradient": "repeating-linear-gradient(90deg, #1e88e5, #1565c0 20px, #1e88e5 40px)"
+    },
+    {
+        "name": "Lush Green",
+        "gradient": "repeating-linear-gradient(135deg, #388e3c, #43a047 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Tangerine Dream",
+        "gradient": "repeating-linear-gradient(60deg, #ff5722, #ff9800 20px, #ff5722 40px)"
+    },
+    {
+        "name": "Golden Sands",
+        "gradient": "repeating-linear-gradient(90deg, #ffcc00, #ffb300 30px, #ffcc00 60px)"
+    },
+    {
+        "name": "Misty Rose",
+        "gradient": "repeating-linear-gradient(120deg, #f06292, #e91e63 30px, #f06292 60px)"
+    },
+    {
+        "name": "Minty Breeze",
+        "gradient": "repeating-linear-gradient(45deg, #4caf50, #81c784 20px, #4caf50 40px)"
+    },
+    {
+        "name": "Fire and Ice",
+        "gradient": "repeating-linear-gradient(90deg, #f44336, #03a9f4 30px, #f44336 60px)"
+    },
+    {
+        "name": "Blush Pink Glow",
+        "gradient": "repeating-linear-gradient(135deg, #f8bbd0, #f50057 25px, #f8bbd0 50px)"
+    },
+    {
+        "name": "Lime Fizz",
+        "gradient": "repeating-linear-gradient(60deg, #cddc39, #8bc34a 30px, #cddc39 60px)"
+    },
+    {
+        "name": "Ocean Mist",
+        "gradient": "repeating-linear-gradient(90deg, #26c6da, #00bcd4 30px, #26c6da 60px)"
+    },
+    {
+        "name": "Purple Sunset",
+        "gradient": "repeating-linear-gradient(120deg, #9c27b0, #6a1b9a 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Citrus Twist",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #ff9800 20px, #ffeb3b 40px)"
+    },
+    {
+        "name": "Berry Smooth",
+        "gradient": "repeating-linear-gradient(90deg, #9c27b0, #c2185b 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Lavender Breeze",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #ab47bc 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Celestial Dream",
+        "gradient": "repeating-linear-gradient(60deg, #1e3c72, #2a5298 30px, #1e3c72 60px)"
+    },
+    {
+        "name": "Sunrise Glow",
+        "gradient": "repeating-linear-gradient(90deg, #ff9800, #f57c00 20px, #ff9800 40px)"
+    },
+    {
+        "name": "Aqua Horizon",
+        "gradient": "repeating-linear-gradient(120deg, #00acc1, #00bcd4 25px, #00acc1 50px)"
+    },
+    {
+        "name": "Cotton Candy",
+        "gradient": "repeating-linear-gradient(45deg, #ffccff, #ff80ab 30px, #ffccff 60px)"
+    },
+    {
+        "name": "Sunset Horizon",
+        "gradient": "repeating-linear-gradient(90deg, #ff6f61, #ff4081 30px, #ff6f61 60px)"
+    },
+    {
+        "name": "Frosted Peach",
+        "gradient": "repeating-linear-gradient(135deg, #ffcc80, #ff9800 25px, #ffcc80 50px)"
+    },
+    {
+        "name": "Icy Blue",
+        "gradient": "repeating-linear-gradient(60deg, #4caf50, #26a69a 20px, #4caf50 40px)"
+    },
+    {
+        "name": "Cherry Blossom",
+        "gradient": "repeating-linear-gradient(90deg, #f44336, #e57373 30px, #f44336 60px)"
+    },
+    {
+        "name": "Turquoise Flow",
+        "gradient": "repeating-linear-gradient(120deg, #00bcd4, #009688 25px, #00bcd4 50px)"
+    },
+    {
+        "name": "Peach Mist",
+        "gradient": "repeating-linear-gradient(45deg, #ffcc80, #ffb74d 20px, #ffcc80 40px)"
+    },
+    {
+        "name": "Golden Aura",
+        "gradient": "repeating-linear-gradient(90deg, #fdd835, #ffb300 30px, #fdd835 60px)"
+    },
+    {
+        "name": "Neon Sunrise",
+        "gradient": "repeating-linear-gradient(135deg, #ff5252, #ff4081 30px, #ff5252 60px)"
+    },
+    {
+        "name": "Azure Wave",
+        "gradient": "repeating-linear-gradient(60deg, #0288d1, #03a9f4 20px, #0288d1 40px)"
+    },
+    {
+        "name": "Plum Delight",
+        "gradient": "repeating-linear-gradient(90deg, #9c27b0, #8e24aa 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Warm Embrace",
+        "gradient": "repeating-linear-gradient(120deg, #f57c00, #ff9800 20px, #f57c00 40px)"
+    },
+    {
+        "name": "Tropical Heat",
+        "gradient": "repeating-linear-gradient(45deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Starlight Sky",
+        "gradient": "repeating-linear-gradient(45deg, #1e3c72, #2a5298 20px, #1e3c72 40px)"
+    },
+    {
+        "name": "Tangerine Burst",
+        "gradient": "repeating-linear-gradient(90deg, #ff5722, #ff9800 25px, #ff5722 50px)"
+    },
+    {
+        "name": "Mystic Purple",
+        "gradient": "repeating-linear-gradient(135deg, #6a1b9a, #8e24aa 30px, #6a1b9a 60px)"
+    },
+    {
+        "name": "Twilight Glimmer",
+        "gradient": "repeating-linear-gradient(60deg, #ff4081, #f50057 25px, #ff4081 50px)"
+    },
+    {
+        "name": "Crystal Oasis",
+        "gradient": "repeating-linear-gradient(120deg, #00bcd4, #1de9b6 25px, #00bcd4 50px)"
+    },
+    {
+        "name": "Cobalt Blue",
+        "gradient": "repeating-linear-gradient(45deg, #2962ff, #1e88e5 20px, #2962ff 40px)"
+    },
+    {
+        "name": "Golden Horizon",
+        "gradient": "repeating-linear-gradient(90deg, #ffeb3b, #ff9800 25px, #ffeb3b 50px)"
+    },
+    {
+        "name": "Neon Green",
+        "gradient": "repeating-linear-gradient(135deg, #76ff03, #64dd17 20px, #76ff03 40px)"
+    },
+    {
+        "name": "Crimson Tide",
+        "gradient": "repeating-linear-gradient(60deg, #d32f2f, #f44336 25px, #d32f2f 50px)"
+    },
+    {
+        "name": "Sugar Plum",
+        "gradient": "repeating-linear-gradient(90deg, #9c27b0, #f06292 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Autumn Blaze",
+        "gradient": "repeating-linear-gradient(120deg, #e64a19, #ff7043 25px, #e64a19 50px)"
+    },
+    {
+        "name": "Mint Sorbet",
+        "gradient": "repeating-linear-gradient(45deg, #26a69a, #4caf50 30px, #26a69a 60px)"
+    },
+    {
+        "name": "Copper Glow",
+        "gradient": "repeating-linear-gradient(90deg, #ff7043, #ff5722 20px, #ff7043 40px)"
+    },
+    {
+        "name": "Sunset Serenade",
+        "gradient": "repeating-linear-gradient(135deg, #ff7043, #ffcc80 25px, #ff7043 50px)"
+    },
+    {
+        "name": "Lavender Dawn",
+        "gradient": "repeating-linear-gradient(60deg, #9575cd, #7e57c2 30px, #9575cd 60px)"
+    },
+    {
+        "name": "Blazing Stars",
+        "gradient": "repeating-linear-gradient(120deg, #ff1744, #d500f9 25px, #ff1744 50px)"
+    },
+    {
+        "name": "Tropical Punch",
+        "gradient": "repeating-linear-gradient(45deg, #ff6f61, #f44336 30px, #ff6f61 60px)"
+    },
+    {
+        "name": "Cool Breeze",
+        "gradient": "repeating-linear-gradient(90deg, #26c6da, #00bcd4 20px, #26c6da 40px)"
+    },
+    {
+        "name": "Tart Lemonade",
+        "gradient": "repeating-linear-gradient(135deg, #cddc39, #ffeb3b 30px, #cddc39 60px)"
+    },
+    {
+        "name": "Coral Charm",
+        "gradient": "repeating-linear-gradient(60deg, #ff4081, #f50057 25px, #ff4081 50px)"
+    },
+    {
+        "name": "Stormy Blue",
+        "gradient": "repeating-linear-gradient(90deg, #0277bd, #0288d1 20px, #0277bd 40px)"
+    },
+    {
+        "name": "Electric Pink",
+        "gradient": "repeating-linear-gradient(135deg, #e91e63, #ff4081 25px, #e91e63 50px)"
+    },
+    {
+        "name": "Midnight Oasis",
+        "gradient": "repeating-linear-gradient(60deg, #000000, #263238 30px, #000000 60px)"
+    },
+    {
+        "name": "Golden Mirage",
+        "gradient": "repeating-linear-gradient(120deg, #ff5722, #ff9800 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Berry Splash",
+        "gradient": "repeating-linear-gradient(45deg, #c2185b, #9c27b0 20px, #c2185b 40px)"
+    },
+    {
+        "name": "Neon Pastel",
+        "gradient": "repeating-linear-gradient(90deg, #a7ffeb, #80deea 20px, #a7ffeb 40px)"
+    },
+    {
+        "name": "Lush Garden",
+        "gradient": "repeating-linear-gradient(135deg, #388e3c, #66bb6a 25px, #388e3c 50px)"
+    },
+    {
+        "name": "Citrus Sunset",
+        "gradient": "repeating-linear-gradient(60deg, #ff9800, #ff5722 25px, #ff9800 50px)"
+    },
+    {
+        "name": "Crimson Night",
+        "gradient": "repeating-linear-gradient(120deg, #b71c1c, #d32f2f 20px, #b71c1c 40px)"
+    },
+    {
+        "name": "Aqua Reef",
+        "gradient": "repeating-linear-gradient(45deg, #00bcd4, #26c6da 20px, #00bcd4 40px)"
+    },
+    {
+        "name": "Electric Vibe",
+        "gradient": "repeating-linear-gradient(30deg, #9c27b0, #f06292 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Velvet Twilight",
+        "gradient": "repeating-linear-gradient(45deg, #880e4f, #f48fb1 30px, #880e4f 60px)"
+    },
+    {
+        "name": "Sunset Glow",
+        "gradient": "repeating-linear-gradient(90deg, #ff7043, #ffab40 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Icy Wave",
+        "gradient": "repeating-linear-gradient(120deg, #00bcd4, #00695c 25px, #00bcd4 50px)"
+    },
+    {
+        "name": "Golden Hour",
+        "gradient": "repeating-linear-gradient(60deg, #ffca28, #ff9800 20px, #ffca28 40px)"
+    },
+    {
+        "name": "Frosted Mint",
+        "gradient": "repeating-linear-gradient(135deg, #00e5ff, #00b8d4 30px, #00e5ff 60px)"
+    },
+    {
+        "name": "Tropical Lagoon",
+        "gradient": "repeating-linear-gradient(90deg, #004d40, #00796b 25px, #004d40 50px)"
+    },
+    {
+        "name": "Pink Champagne",
+        "gradient": "repeating-linear-gradient(120deg, #e91e63, #f48fb1 30px, #e91e63 60px)"
+    },
+    {
+        "name": "Citrus Breeze",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #ff9800 20px, #ffeb3b 40px)"
+    },
+    {
+        "name": "Royal Sapphire",
+        "gradient": "repeating-linear-gradient(135deg, #3f51b5, #5c6bc0 25px, #3f51b5 50px)"
+    },
+    {
+        "name": "Minty Fresh",
+        "gradient": "repeating-linear-gradient(90deg, #4caf50, #81c784 30px, #4caf50 60px)"
+    },
+    {
+        "name": "Peach Melba",
+        "gradient": "repeating-linear-gradient(60deg, #ffcc80, #ffb74d 25px, #ffcc80 50px)"
+    },
+    {
+        "name": "Lavender Mist",
+        "gradient": "repeating-linear-gradient(120deg, #ab47bc, #8e24aa 30px, #ab47bc 60px)"
+    },
+    {
+        "name": "Emerald Glimmer",
+        "gradient": "repeating-linear-gradient(45deg, #43a047, #388e3c 25px, #43a047 50px)"
+    },
+    {
+        "name": "Ocean Spray",
+        "gradient": "repeating-linear-gradient(90deg, #039be5, #0288d1 20px, #039be5 40px)"
+    },
+    {
+        "name": "Crimson Rose",
+        "gradient": "repeating-linear-gradient(135deg, #c2185b, #d81b60 30px, #c2185b 60px)"
+    },
+    {
+        "name": "Grape Dream",
+        "gradient": "repeating-linear-gradient(60deg, #9c27b0, #8e24aa 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Sunshine Gold",
+        "gradient": "repeating-linear-gradient(120deg, #ffeb3b, #ff9800 20px, #ffeb3b 40px)"
+    },
+    {
+        "name": "Frozen Berry",
+        "gradient": "repeating-linear-gradient(45deg, #9e1b32, #d32f2f 30px, #9e1b32 60px)"
+    },
+    {
+        "name": "Desert Rose",
+        "gradient": "repeating-linear-gradient(90deg, #e64a19, #f57c00 25px, #e64a19 50px)"
+    },
+    {
+        "name": "Spring Blossom",
+        "gradient": "repeating-linear-gradient(135deg, #c8e6c9, #81c784 25px, #c8e6c9 50px)"
+    },
+    {
+        "name": "Icy Violet",
+        "gradient": "repeating-linear-gradient(60deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Berry Paradise",
+        "gradient": "repeating-linear-gradient(120deg, #b71c1c, #d32f2f 20px, #b71c1c 40px)"
+    },
+    {
+        "name": "Frosted Lavender",
+        "gradient": "repeating-linear-gradient(45deg, #ce93d8, #ab47bc 25px, #ce93d8 50px)"
+    },
+    {
+        "name": "Coral Sunrise",
+        "gradient": "repeating-linear-gradient(90deg, #ff6f61, #f44336 20px, #ff6f61 40px)"
+    },
+    {
+        "name": "Aqua Pulse",
+        "gradient": "repeating-linear-gradient(135deg, #00bcd4, #00bfae 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Golden Bliss",
+        "gradient": "repeating-linear-gradient(60deg, #ffd54f, #ffb300 20px, #ffd54f 40px)"
+    },
+    {
+        "name": "Sky Reflection",
+        "gradient": "repeating-linear-gradient(120deg, #0288d1, #0277bd 25px, #0288d1 50px)"
+    },
+    {
+        "name": "Fiery Sunset",
+        "gradient": "repeating-linear-gradient(45deg, #f44336, #e91e63 20px, #f44336 40px)"
+    },
+    {
+        "name": "Mystical Green",
+        "gradient": "repeating-linear-gradient(90deg, #388e3c, #66bb6a 25px, #388e3c 50px)"
+    },
+    {
+        "name": "Midnight Dream",
+        "gradient": "repeating-linear-gradient(135deg, #0d47a1, #1976d2 20px, #0d47a1 40px)"
+    },
+    {
+        "name": "Electric Mango",
+        "gradient": "repeating-linear-gradient(60deg, #ff8f00, #ffb300 25px, #ff8f00 50px)"
+    },
+    {
+        "name": "Lavender Fields",
+        "gradient": "repeating-linear-gradient(120deg, #8e24aa, #ab47bc 20px, #8e24aa 40px)"
+    },
+    {
+        "name": "Solar Flare",
+        "gradient": "repeating-linear-gradient(45deg, #ff5722, #ff7043 25px, #ff5722 50px)"
+    },
+    {
+        "name": "Crimson Tide",
+        "gradient": "repeating-linear-gradient(90deg, #d32f2f, #c2185b 25px, #d32f2f 50px)"
+    },
+    {
+        "name": "Royal Ember",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #8e24aa 20px, #9c27b0 40px)"
+    },
+    {
+        "name": "Fire and Ice",
+        "gradient": "repeating-linear-gradient(60deg, #ff5722, #00bcd4 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Ocean Current",
+        "gradient": "repeating-linear-gradient(120deg, #0277bd, #01579b 25px, #0277bd 50px)"
+    },
+    {
+        "name": "Tropical Sunset",
+        "gradient": "repeating-linear-gradient(45deg, #ff8f00, #f57c00 25px, #ff8f00 50px)"
+    },
+    {
+        "name": "Moonlight Serenade",
+        "gradient": "repeating-linear-gradient(90deg, #8e24aa, #c2185b 30px, #8e24aa 60px)"
+    },
+    {
+        "name": "Sea Breeze",
+        "gradient": "repeating-linear-gradient(135deg, #00bcd4, #004d40 20px, #00bcd4 40px)"
+    },
+    {
+        "name": "Sunlit Path",
+        "gradient": "repeating-linear-gradient(60deg, #fbc02d, #f57c00 25px, #fbc02d 50px)"
+    },
+    {
+        "name": "Glimmering Amber",
+        "gradient": "repeating-linear-gradient(120deg, #f57c00, #ff9800 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Scarlet Horizon",
+        "gradient": "repeating-linear-gradient(45deg, #c2185b, #d81b60 25px, #c2185b 50px)"
+    },
+    {
+        "name": "Azure Sky",
+        "gradient": "repeating-linear-gradient(90deg, #0288d1, #03a9f4 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Violet Rays",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #8e24aa 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Tropical Orchid",
+        "gradient": "repeating-linear-gradient(60deg, #6a1b9a, #9c27b0 20px, #6a1b9a 40px)"
+    },
+    {
+        "name": "Emerald Glint",
+        "gradient": "repeating-linear-gradient(120deg, #388e3c, #66bb6a 25px, #388e3c 50px)"
+    },
+    {
+        "name": "Purple Paradise",
+        "gradient": "repeating-linear-gradient(45deg, #ab47bc, #8e24aa 30px, #ab47bc 60px)"
+    },
+    {
+        "name": "Autumn Blaze",
+        "gradient": "repeating-linear-gradient(90deg, #d32f2f, #c2185b 20px, #d32f2f 40px)"
+    },
+    {
+        "name": "Summer Nights",
+        "gradient": "repeating-linear-gradient(135deg, #ff8f00, #ff7043 30px, #ff8f00 60px)"
+    },
+    {
+        "name": "Starry Night",
+        "gradient": "repeating-linear-gradient(60deg, #1e88e5, #039be5 20px, #1e88e5 40px)"
+    },
+    {
+        "name": "Vivid Gold",
+        "gradient": "repeating-linear-gradient(120deg, #fbc02d, #ffeb3b 25px, #fbc02d 50px)"
+    },
+    {
+        "name": "Pink Lemonade",
+        "gradient": "repeating-linear-gradient(120deg, #ff4f81, #ff9b88 30px, #ff4f81 60px)"
+    },
+    {
+        "name": "Blue Lagoon",
+        "gradient": "repeating-linear-gradient(60deg, #00796b, #004d40 25px, #00796b 50px)"
+    },
+    {
+        "name": "Golden Glow",
+        "gradient": "repeating-linear-gradient(90deg, #fbc02d, #f57c00 30px, #fbc02d 60px)"
+    },
+    {
+        "name": "Sunrise Drift",
+        "gradient": "repeating-linear-gradient(135deg, #f44336, #ff5722 20px, #f44336 40px)"
+    },
+    {
+        "name": "Wild Berry",
+        "gradient": "repeating-linear-gradient(45deg, #8e24aa, #d81b60 25px, #8e24aa 50px)"
+    },
+    {
+        "name": "Mint Mojito",
+        "gradient": "repeating-linear-gradient(60deg, #00bfae, #00897b 25px, #00bfae 50px)"
+    },
+    {
+        "name": "Tangerine Dream",
+        "gradient": "repeating-linear-gradient(120deg, #ff5722, #ff7043 25px, #ff5722 50px)"
+    },
+    {
+        "name": "Lavender Bliss",
+        "gradient": "repeating-linear-gradient(135deg, #7e57c2, #ab47bc 20px, #7e57c2 40px)"
+    },
+    {
+        "name": "Desert Mirage",
+        "gradient": "repeating-linear-gradient(90deg, #f57c00, #fbc02d 25px, #f57c00 50px)"
+    },
+    {
+        "name": "Tropical Twilight",
+        "gradient": "repeating-linear-gradient(45deg, #004d40, #00bcd4 30px, #004d40 60px)"
+    },
+    {
+        "name": "Neon Nights",
+        "gradient": "repeating-linear-gradient(60deg, #0d47a1, #2196f3 20px, #0d47a1 40px)"
+    },
+    {
+        "name": "Celestial Sky",
+        "gradient": "repeating-linear-gradient(120deg, #1976d2, #0288d1 25px, #1976d2 50px)"
+    },
+    {
+        "name": "Tropical Paradise",
+        "gradient": "repeating-linear-gradient(135deg, #4caf50, #66bb6a 20px, #4caf50 40px)"
+    },
+    {
+        "name": "Raspberry Rush",
+        "gradient": "repeating-linear-gradient(90deg, #c2185b, #e91e63 30px, #c2185b 60px)"
+    },
+    {
+        "name": "Citrus Zing",
+        "gradient": "repeating-linear-gradient(45deg, #ff9800, #ffeb3b 20px, #ff9800 40px)"
+    },
+    {
+        "name": "Skyline Glow",
+        "gradient": "repeating-linear-gradient(60deg, #00bcd4, #039be5 25px, #00bcd4 50px)"
+    },
+    {
+        "name": "Lush Forest",
+        "gradient": "repeating-linear-gradient(120deg, #388e3c, #4caf50 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Crimson Rush",
+        "gradient": "repeating-linear-gradient(135deg, #d32f2f, #c2185b 25px, #d32f2f 50px)"
+    },
+    {
+        "name": "Frosty Pink",
+        "gradient": "repeating-linear-gradient(90deg, #f48fb1, #f06292 30px, #f48fb1 60px)"
+    },
+    {
+        "name": "Electric Purple",
+        "gradient": "repeating-linear-gradient(45deg, #9c27b0, #ab47bc 20px, #9c27b0 40px)"
+    },
+    {
+        "name": "Caribbean Blue",
+        "gradient": "repeating-linear-gradient(60deg, #0288d1, #03a9f4 25px, #0288d1 50px)"
+    },
+    {
+        "name": "Golden Hour",
+        "gradient": "repeating-linear-gradient(120deg, #f57c00, #ff9800 25px, #f57c00 50px)"
+    },
+    {
+        "name": "Crimson Velvet",
+        "gradient": "repeating-linear-gradient(135deg, #8e24aa, #d81b60 30px, #8e24aa 60px)"
+    },
+    {
+        "name": "Amber Sky",
+        "gradient": "repeating-linear-gradient(60deg, #ff5722, #ff7043 25px, #ff5722 50px)"
+    },
+    {
+        "name": "Emerald Mirage",
+        "gradient": "repeating-linear-gradient(120deg, #388e3c, #4caf50 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Sunset Overdrive",
+        "gradient": "repeating-linear-gradient(45deg, #ff8f00, #f57c00 30px, #ff8f00 60px)"
+    },
+    {
+        "name": "Blushing Breeze",
+        "gradient": "repeating-linear-gradient(90deg, #f06292, #f48fb1 30px, #f06292 60px)"
+    },
+    {
+        "name": "Purple Twilight",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Blueberry Glow",
+        "gradient": "repeating-linear-gradient(60deg, #3f51b5, #5c6bc0 25px, #3f51b5 50px)"
+    },
+    {
+        "name": "Tangerine Twist",
+        "gradient": "repeating-linear-gradient(120deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Azure Mist",
+        "gradient": "repeating-linear-gradient(45deg, #0288d1, #039be5 25px, #0288d1 50px)"
+    },
+    {
+        "name": "Coral Reef",
+        "gradient": "repeating-linear-gradient(90deg, #ff8f00, #ffb300 30px, #ff8f00 60px)"
+    },
+    {
+        "name": "Fiery Orange",
+        "gradient": "repeating-linear-gradient(135deg, #f57c00, #ff9800 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Sunshine Bliss",
+        "gradient": "repeating-linear-gradient(60deg, #fbc02d, #ffeb3b 25px, #fbc02d 50px)"
+    },
+    {
+        "name": "Mystic Forest",
+        "gradient": "repeating-linear-gradient(120deg, #388e3c, #66bb6a 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Starry Night",
+        "gradient": "repeating-linear-gradient(45deg, #9c27b0, #ab47bc 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Tropical Storm",
+        "gradient": "repeating-linear-gradient(90deg, #00bcd4, #039be5 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Electric Candy",
+        "gradient": "repeating-linear-gradient(135deg, #ff4081, #ff80ab 30px, #ff4081 60px)"
+    },
+    {
+        "name": "Pink Blossom",
+        "gradient": "repeating-linear-gradient(60deg, #f48fb1, #f06292 25px, #f48fb1 50px)"
+    },
+    {
+        "name": "Autumn Dawn",
+        "gradient": "repeating-linear-gradient(120deg, #f57c00, #ff9800 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Firefly Glow",
+        "gradient": "repeating-linear-gradient(45deg, #ffb300, #ff8f00 25px, #ffb300 50px)"
+    },
+    {
+        "name": "Magenta Dream",
+        "gradient": "repeating-linear-gradient(90deg, #8e24aa, #ab47bc 30px, #8e24aa 60px)"
+    },
+    {
+        "name": "Electric Storm",
+        "gradient": "repeating-linear-gradient(135deg, #00bcd4, #00796b 25px, #00bcd4 50px)"
+    },
+    {
+        "name": "Citrus Punch",
+        "gradient": "repeating-linear-gradient(60deg, #ff9800, #ffeb3b 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Crimson Fire",
+        "gradient": "repeating-linear-gradient(90deg, #ff5722, #f44336 25px, #ff5722 50px)"
+    },
+    {
+        "name": "Neon Jungle",
+        "gradient": "repeating-linear-gradient(120deg, #00e5ff, #0097a7 30px, #00e5ff 60px)"
+    },
+    {
+        "name": "Golden Sands",
+        "gradient": "repeating-linear-gradient(135deg, #ff9800, #ffb300 25px, #ff9800 50px)"
+    },
+    {
+        "name": "Midnight Sky",
+        "gradient": "repeating-linear-gradient(60deg, #3f51b5, #283593 25px, #3f51b5 50px)"
+    },
+    {
+        "name": "Summer Breeze",
+        "gradient": "repeating-linear-gradient(120deg, #00bcd4, #039be5 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Sunset Serenade",
+        "gradient": "repeating-linear-gradient(45deg, #ff7043, #ff5722 25px, #ff7043 50px)"
+    },
+    {
+        "name": "Rose Petal",
+        "gradient": "repeating-linear-gradient(135deg, #f06292, #ec407a 30px, #f06292 60px)"
+    },
+    {
+        "name": "Aqua Splash",
+        "gradient": "repeating-linear-gradient(60deg, #00bcd4, #00acc1 25px, #00bcd4 50px)"
+    },
+    {
+        "name": "Violet Sunset",
+        "gradient": "repeating-linear-gradient(120deg, #8e24aa, #ab47bc 30px, #8e24aa 60px)"
+    },
+    {
+        "name": "Cobalt Wave",
+        "gradient": "repeating-linear-gradient(135deg, #0277bd, #0288d1 25px, #0277bd 50px)"
+    },
+    {
+        "name": "Peach Fizz",
+        "gradient": "repeating-linear-gradient(90deg, #ff8a65, #ff7043 25px, #ff8a65 50px)"
+    },
+    {
+        "name": "Mint Breeze",
+        "gradient": "repeating-linear-gradient(60deg, #4caf50, #66bb6a 25px, #4caf50 50px)"
+    },
+    {
+        "name": "Pineapple Glow",
+        "gradient": "repeating-linear-gradient(120deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Ocean Mist",
+        "gradient": "repeating-linear-gradient(45deg, #009688, #004d40 25px, #009688 50px)"
+    },
+    {
+        "name": "Vivid Coral",
+        "gradient": "repeating-linear-gradient(135deg, #ff5722, #ff1744 25px, #ff5722 50px)"
+    },
+    {
+        "name": "Twilight Glow",
+        "gradient": "repeating-linear-gradient(60deg, #673ab7, #7e57c2 25px, #673ab7 50px)"
+    },
+    {
+        "name": "Citrus Rush",
+        "gradient": "repeating-linear-gradient(120deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Mauve Dream",
+        "gradient": "repeating-linear-gradient(90deg, #8e24aa, #ab47bc 25px, #8e24aa 50px)"
+    },
+    {
+        "name": "Electric Lime",
+        "gradient": "repeating-linear-gradient(45deg, #cddc39, #8bc34a 30px, #cddc39 60px)"
+    },
+    {
+        "name": "Lavender Fields",
+        "gradient": "repeating-linear-gradient(135deg, #673ab7, #9575cd 25px, #673ab7 50px)"
+    },
+    {
+        "name": "Cherry Blossom",
+        "gradient": "repeating-linear-gradient(60deg, #f8bbd0, #f48fb1 25px, #f8bbd0 50px)"
+    },
+    {
+        "name": "Blazing Red",
+        "gradient": "repeating-linear-gradient(120deg, #d32f2f, #f44336 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Frosted Dawn",
+        "gradient": "repeating-linear-gradient(90deg, #00acc1, #0097a7 30px, #00acc1 60px)"
+    },
+    {
+        "name": "Crimson Sunset",
+        "gradient": "repeating-linear-gradient(135deg, #d32f2f, #f44336 25px, #d32f2f 50px)"
+    },
+    {
+        "name": "Pink Diamond",
+        "gradient": "repeating-linear-gradient(45deg, #e91e63, #f06292 30px, #e91e63 60px)"
+    },
+    {
+        "name": "Golden Mirage",
+        "gradient": "repeating-linear-gradient(60deg, #ffd54f, #ffb300 30px, #ffd54f 60px)"
+    },
+    {
+        "name": "Ocean Whisper",
+        "gradient": "repeating-linear-gradient(120deg, #00bcd4, #0288d1 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Lavender Bliss",
+        "gradient": "repeating-linear-gradient(135deg, #8e24aa, #ba68c8 25px, #8e24aa 50px)"
+    },
+    {
+        "name": "Citrus Twist",
+        "gradient": "repeating-linear-gradient(90deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Skyline Pink",
+        "gradient": "repeating-linear-gradient(45deg, #ff4081, #f50057 25px, #ff4081 50px)"
+    },
+    {
+        "name": "Midnight Jewel",
+        "gradient": "repeating-linear-gradient(60deg, #1e88e5, #039be5 30px, #1e88e5 60px)"
+    },
+    {
+        "name": "Tropical Sunset",
+        "gradient": "repeating-linear-gradient(120deg, #f57c00, #ff9800 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Sea Breeze",
+        "gradient": "repeating-linear-gradient(135deg, #00796b, #004d40 25px, #00796b 50px)"
+    },
+    {
+        "name": "Berry Smoothie",
+        "gradient": "repeating-linear-gradient(90deg, #9c27b0, #ab47bc 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Warm Ember",
+        "gradient": "repeating-linear-gradient(45deg, #f57c00, #ff7043 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Mint Paradise",
+        "gradient": "repeating-linear-gradient(60deg, #4caf50, #66bb6a 30px, #4caf50 60px)"
+    },
+    {
+        "name": "Rising Star",
+        "gradient": "repeating-linear-gradient(120deg, #ff8f00, #ffb300 30px, #ff8f00 60px)"
+    },
+    {
+        "name": "Autumn Ember",
+        "gradient": "repeating-linear-gradient(135deg, #f57c00, #ff5722 25px, #f57c00 50px)"
+    },
+    {
+        "name": "Blushing Mist",
+        "gradient": "repeating-linear-gradient(45deg, #f06292, #ec407a 30px, #f06292 60px)"
+    },
+    {
+        "name": "Grape Vine",
+        "gradient": "repeating-linear-gradient(90deg, #8e24aa, #ab47bc 30px, #8e24aa 60px)"
+    },
+    {
+        "name": "Tangerine Dream",
+        "gradient": "repeating-linear-gradient(120deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Electric Lemon",
+        "gradient": "repeating-linear-gradient(135deg, #cddc39, #ffeb3b 25px, #cddc39 50px)"
+    },
+    {
+        "name": "Berry Spark",
+        "gradient": "repeating-linear-gradient(90deg, #f44336, #e91e63 30px, #f44336 60px)"
+    },
+    {
+        "name": "Mango Smoothie",
+        "gradient": "repeating-linear-gradient(45deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Tropical Rain",
+        "gradient": "repeating-linear-gradient(135deg, #00796b, #004d40 25px, #00796b 50px)"
+    },
+    {
+        "name": "Lavender Bliss",
+        "gradient": "repeating-linear-gradient(60deg, #8e24aa, #ba68c8 30px, #8e24aa 60px)"
+    },
+    {
+        "name": "Sunset Horizons",
+        "gradient": "repeating-linear-gradient(120deg, #ff5722, #ff7043 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Celestial Blue",
+        "gradient": "repeating-linear-gradient(45deg, #1e88e5, #039be5 30px, #1e88e5 60px)"
+    },
+    {
+        "name": "Citrus Grove",
+        "gradient": "repeating-linear-gradient(90deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Rose Quartz",
+        "gradient": "repeating-linear-gradient(135deg, #f06292, #ec407a 25px, #f06292 50px)"
+    },
+    {
+        "name": "Mint Oasis",
+        "gradient": "repeating-linear-gradient(120deg, #4caf50, #66bb6a 30px, #4caf50 60px)"
+    },
+    {
+        "name": "Golden Dusk",
+        "gradient": "repeating-linear-gradient(45deg, #ff8f00, #ffb300 30px, #ff8f00 60px)"
+    },
+    {
+        "name": "Ocean Deep",
+        "gradient": "repeating-linear-gradient(60deg, #0277bd, #0288d1 30px, #0277bd 60px)"
+    },
+    {
+        "name": "Sunrise Pink",
+        "gradient": "repeating-linear-gradient(135deg, #f8bbd0, #f48fb1 25px, #f8bbd0 50px)"
+    },
+    {
+        "name": "Midnight Sparkle",
+        "gradient": "repeating-linear-gradient(90deg, #3f51b5, #5c6bc0 30px, #3f51b5 60px)"
+    },
+    {
+        "name": "Coral Reef",
+        "gradient": "repeating-linear-gradient(120deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Icy Blue",
+        "gradient": "repeating-linear-gradient(45deg, #00bcd4, #0288d1 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Cherry Spark",
+        "gradient": "repeating-linear-gradient(135deg, #d32f2f, #f44336 25px, #d32f2f 50px)"
+    },
+    {
+        "name": "Golden Hour",
+        "gradient": "repeating-linear-gradient(60deg, #ffd54f, #ffb300 30px, #ffd54f 60px)"
+    },
+    {
+        "name": "Tangerine Blaze",
+        "gradient": "repeating-linear-gradient(120deg, #ff5722, #ff9800 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Lime Twist",
+        "gradient": "repeating-linear-gradient(45deg, #cddc39, #8bc34a 30px, #cddc39 60px)"
+    },
+    {
+        "name": "Sunset Coral",
+        "gradient": "repeating-linear-gradient(90deg, #ff8a65, #ff7043 30px, #ff8a65 60px)"
+    },
+    {
+        "name": "Electric Orchid",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #ab47bc 25px, #9c27b0 50px)"
+    },
+    {
+        "name": "Sunset Waves",
+        "gradient": "repeating-linear-gradient(45deg, #ff6f61, #ffcc00 30px, #ff6f61 60px)"
+    },
+    {
+        "name": "Skyline Orange",
+        "gradient": "repeating-linear-gradient(120deg, #ffb74d, #f57c00 30px, #ffb74d 60px)"
+    },
+    {
+        "name": "Tropical Lagoon",
+        "gradient": "repeating-linear-gradient(90deg, #009688, #004d40 30px, #009688 60px)"
+    },
+    {
+        "name": "Mint Refresh",
+        "gradient": "repeating-linear-gradient(135deg, #66bb6a, #388e3c 25px, #66bb6a 50px)"
+    },
+    {
+        "name": "Fiery Sunset",
+        "gradient": "repeating-linear-gradient(60deg, #d32f2f, #f44336 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Berry Burst",
+        "gradient": "repeating-linear-gradient(45deg, #e91e63, #9c27b0 30px, #e91e63 60px)"
+    },
+    {
+        "name": "Neon Dreams",
+        "gradient": "repeating-linear-gradient(120deg, #00e5ff, #1e88e5 30px, #00e5ff 60px)"
+    },
+    {
+        "name": "Autumn Glaze",
+        "gradient": "repeating-linear-gradient(90deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Starry Night",
+        "gradient": "repeating-linear-gradient(135deg, #3f51b5, #673ab7 25px, #3f51b5 50px)"
+    },
+    {
+        "name": "Lavender Breeze",
+        "gradient": "repeating-linear-gradient(60deg, #ab47bc, #8e24aa 30px, #ab47bc 60px)"
+    },
+    {
+        "name": "Minty Meadow",
+        "gradient": "repeating-linear-gradient(45deg, #388e3c, #66bb6a 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Peachy Glow",
+        "gradient": "repeating-linear-gradient(120deg, #ffcc80, #ffb74d 30px, #ffcc80 60px)"
+    },
+    {
+        "name": "Golden Sunrise",
+        "gradient": "repeating-linear-gradient(90deg, #f57c00, #ff9800 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Pink Aura",
+        "gradient": "repeating-linear-gradient(135deg, #f8bbd0, #ec407a 25px, #f8bbd0 50px)"
+    },
+    {
+        "name": "Crimson Wave",
+        "gradient": "repeating-linear-gradient(60deg, #d32f2f, #b71c1c 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Citrus Breeze",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #fbc02d 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Tropical Sunset",
+        "gradient": "repeating-linear-gradient(120deg, #ff5722, #ff9800 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Stormy Sky",
+        "gradient": "repeating-linear-gradient(90deg, #3f51b5, #3949ab 30px, #3f51b5 60px)"
+    },
+    {
+        "name": "Ocean Tides",
+        "gradient": "repeating-linear-gradient(135deg, #00796b, #004d40 25px, #00796b 50px)"
+    },
+    {
+        "name": "Lime Spark",
+        "gradient": "repeating-linear-gradient(60deg, #8bc34a, #cddc39 30px, #8bc34a 60px)"
+    },
+    {
+        "name": "Purple Horizon",
+        "gradient": "repeating-linear-gradient(45deg, #9c27b0, #ab47bc 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Rose Gold Glow",
+        "gradient": "repeating-linear-gradient(120deg, #ff4081, #f50057 30px, #ff4081 60px)"
+    },
+    {
+        "name": "Burnt Ember",
+        "gradient": "repeating-linear-gradient(90deg, #ff5722, #d32f2f 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Pink Lemonade",
+        "gradient": "repeating-linear-gradient(135deg, #ffeb3b, #fbc02d 25px, #ffeb3b 50px)"
+    },
+    {
+        "name": "Electric Lime",
+        "gradient": "repeating-linear-gradient(60deg, #8bc34a, #7cb342 30px, #8bc34a 60px)"
+    },
+    {
+        "name": "Sapphire Mist",
+        "gradient": "repeating-linear-gradient(45deg, #0288d1, #03a9f4 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Aqua Frost",
+        "gradient": "repeating-linear-gradient(120deg, #00bcd4, #03a9f4 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Golden Sands",
+        "gradient": "repeating-linear-gradient(90deg, #ffeb3b, #fbc02d 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Crimson Storm",
+        "gradient": "repeating-linear-gradient(135deg, #d32f2f, #f44336 25px, #d32f2f 50px)"
+    },
+    {
+        "name": "Forest Glade",
+        "gradient": "repeating-linear-gradient(60deg, #388e3c, #66bb6a 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Midnight Bliss",
+        "gradient": "repeating-linear-gradient(90deg, #1e3c72, #2a5298 30px, #1e3c72 60px)"
+    },
+    {
+        "name": "Fiery Passion",
+        "gradient": "repeating-linear-gradient(45deg, #ff6f61, #f76c5e 30px, #ff6f61 60px)"
+    },
+    {
+        "name": "Oceanic Dream",
+        "gradient": "repeating-linear-gradient(120deg, #00bcd4, #26c6da 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Dawn Sky",
+        "gradient": "repeating-linear-gradient(60deg, #ffcc80, #ffb74d 30px, #ffcc80 60px)"
+    },
+    {
+        "name": "Lavender Mist",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Cherry Blossom",
+        "gradient": "repeating-linear-gradient(90deg, #f06292, #d81b60 30px, #f06292 60px)"
+    },
+    {
+        "name": "Golden Twilight",
+        "gradient": "repeating-linear-gradient(45deg, #fbc02d, #f57c00 30px, #fbc02d 60px)"
+    },
+    {
+        "name": "Berry Serenade",
+        "gradient": "repeating-linear-gradient(120deg, #8e24aa, #c2185b 30px, #8e24aa 60px)"
+    },
+    {
+        "name": "Blush Breeze",
+        "gradient": "repeating-linear-gradient(60deg, #f8bbd0, #f06292 30px, #f8bbd0 60px)"
+    },
+    {
+        "name": "Misty Forest",
+        "gradient": "repeating-linear-gradient(135deg, #66bb6a, #43a047 30px, #66bb6a 60px)"
+    },
+    {
+        "name": "Electric Sunset",
+        "gradient": "repeating-linear-gradient(90deg, #e91e63, #f44336 30px, #e91e63 60px)"
+    },
+    {
+        "name": "Aurora Breeze",
+        "gradient": "repeating-linear-gradient(45deg, #00e5ff, #1e88e5 30px, #00e5ff 60px)"
+    },
+    {
+        "name": "Caribbean Rush",
+        "gradient": "repeating-linear-gradient(120deg, #00796b, #004d40 30px, #00796b 60px)"
+    },
+    {
+        "name": "Lush Meadow",
+        "gradient": "repeating-linear-gradient(60deg, #43a047, #66bb6a 30px, #43a047 60px)"
+    },
+    {
+        "name": "Crimson Twilight",
+        "gradient": "repeating-linear-gradient(135deg, #d32f2f, #b71c1c 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Peachy Paradise",
+        "gradient": "repeating-linear-gradient(90deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Turquoise Shine",
+        "gradient": "repeating-linear-gradient(45deg, #00bcd4, #26c6da 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Starry Sky",
+        "gradient": "repeating-linear-gradient(120deg, #3f51b5, #673ab7 30px, #3f51b5 60px)"
+    },
+    {
+        "name": "Emerald Sea",
+        "gradient": "repeating-linear-gradient(60deg, #388e3c, #2e7d32 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Scarlet Passion",
+        "gradient": "repeating-linear-gradient(135deg, #e91e63, #f44336 30px, #e91e63 60px)"
+    },
+    {
+        "name": "Ivory Glow",
+        "gradient": "repeating-linear-gradient(90deg, #f8bbd0, #f06292 30px, #f8bbd0 60px)"
+    },
+    {
+        "name": "Frosted Night",
+        "gradient": "repeating-linear-gradient(45deg, #3f51b5, #1e3c72 30px, #3f51b5 60px)"
+    },
+    {
+        "name": "Aqua Pulse",
+        "gradient": "repeating-linear-gradient(120deg, #0288d1, #03a9f4 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Soft Amber",
+        "gradient": "repeating-linear-gradient(60deg, #ffcc80, #ffb74d 30px, #ffcc80 60px)"
+    },
+    {
+        "name": "Blazing Sun",
+        "gradient": "repeating-linear-gradient(135deg, #ff5722, #ff9800 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Citrus Spark",
+        "gradient": "repeating-linear-gradient(90deg, #ffeb3b, #fbc02d 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Coral Reef",
+        "gradient": "repeating-linear-gradient(45deg, #ff5722, #f44336 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Mystic Vibes",
+        "gradient": "repeating-linear-gradient(120deg, #673ab7, #512da8 30px, #673ab7 60px)"
+    },
+    {
+        "name": "Firefly Glow",
+        "gradient": "repeating-linear-gradient(60deg, #fbc02d, #f57c00 30px, #fbc02d 60px)"
+    },
+    {
+        "name": "Auburn Dream",
+        "gradient": "repeating-linear-gradient(135deg, #f57c00, #ff7043 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Sapphire Waves",
+        "gradient": "repeating-linear-gradient(45deg, #1e88e5, #0277bd 30px, #1e88e5 60px)"
+    },
+    {
+        "name": "Sunset Glow",
+        "gradient": "repeating-linear-gradient(90deg, #ff7043, #d32f2f 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Cloudy Mist",
+        "gradient": "repeating-linear-gradient(135deg, #90a4ae, #607d8b 30px, #90a4ae 60px)"
+    },
+    {
+        "name": "Blue Lagoon",
+        "gradient": "repeating-linear-gradient(60deg, #00796b, #004d40 30px, #00796b 60px)"
+    },
+    {
+        "name": "Electric Aura",
+        "gradient": "repeating-linear-gradient(120deg, #9c27b0, #673ab7 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Frosted Dawn",
+        "gradient": "repeating-linear-gradient(45deg, #f8bbd0, #f06292 30px, #f8bbd0 60px)"
+    },
+    {
+        "name": "Glimmering Sapphire",
+        "gradient": "repeating-linear-gradient(90deg, #1e3c72, #2a5298 30px, #1e3c72 60px)"
+    },
+    {
+        "name": "Sunlit Peaks",
+        "gradient": "repeating-linear-gradient(135deg, #ffb74d, #ff9800 30px, #ffb74d 60px)"
+    },
+    {
+        "name": "Serene Oasis",
+        "gradient": "repeating-linear-gradient(120deg, #4caf50, #388e3c 30px, #4caf50 60px)"
+    },
+    {
+        "name": "Crimson Horizon",
+        "gradient": "repeating-linear-gradient(60deg, #d32f2f, #c2185b 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Peach Sunrise",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Pine Grove",
+        "gradient": "repeating-linear-gradient(90deg, #388e3c, #2e7d32 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Twilight Glow",
+        "gradient": "repeating-linear-gradient(135deg, #f44336, #ff5722 30px, #f44336 60px)"
+    },
+    {
+        "name": "Indigo Waves",
+        "gradient": "repeating-linear-gradient(120deg, #3f51b5, #5c6bc0 30px, #3f51b5 60px)"
+    },
+    {
+        "name": "Sapphire Glow",
+        "gradient": "repeating-linear-gradient(60deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Golden Sands",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #fbc02d 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Mystic Green",
+        "gradient": "repeating-linear-gradient(90deg, #43a047, #66bb6a 30px, #43a047 60px)"
+    },
+    {
+        "name": "Burning Desire",
+        "gradient": "repeating-linear-gradient(135deg, #ff5722, #ff7043 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Mint Breeze",
+        "gradient": "repeating-linear-gradient(120deg, #4caf50, #80e27e 30px, #4caf50 60px)"
+    },
+    {
+        "name": "Tangerine Dream",
+        "gradient": "repeating-linear-gradient(60deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Purple Passion",
+        "gradient": "repeating-linear-gradient(45deg, #9c27b0, #7b1fa2 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Blazing Star",
+        "gradient": "repeating-linear-gradient(90deg, #f44336, #d32f2f 30px, #f44336 60px)"
+    },
+    {
+        "name": "Saffron Dream",
+        "gradient": "repeating-linear-gradient(135deg, #f57c00, #fbc02d 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Autumn Leaves",
+        "gradient": "repeating-linear-gradient(120deg, #8d6e63, #6d4c41 30px, #8d6e63 60px)"
+    },
+    {
+        "name": "Emerald Mystique",
+        "gradient": "repeating-linear-gradient(60deg, #43a047, #2e7d32 30px, #43a047 60px)"
+    },
+    {
+        "name": "Citrus Burst",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Soft Coral",
+        "gradient": "repeating-linear-gradient(90deg, #ff7043, #f57c00 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Grape Twist",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Silver Horizon",
+        "gradient": "repeating-linear-gradient(120deg, #607d8b, #78909c 30px, #607d8b 60px)"
+    },
+    {
+        "name": "Magenta Bliss",
+        "gradient": "repeating-linear-gradient(60deg, #e91e63, #d81b60 30px, #e91e63 60px)"
+    },
+    {
+        "name": "Violet Rain",
+        "gradient": "repeating-linear-gradient(45deg, #673ab7, #512da8 30px, #673ab7 60px)"
+    },
+    {
+        "name": "Midnight Sky",
+        "gradient": "repeating-linear-gradient(45deg, #001f3d, #003d6b 30px, #001f3d 60px)"
+    },
+    {
+        "name": "Cherry Blossom",
+        "gradient": "repeating-linear-gradient(90deg, #f06292, #ec407a 30px, #f06292 60px)"
+    },
+    {
+        "name": "Golden Dawn",
+        "gradient": "repeating-linear-gradient(135deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Arctic Mist",
+        "gradient": "repeating-linear-gradient(120deg, #b3e5fc, #03a9f4 30px, #b3e5fc 60px)"
+    },
+    {
+        "name": "Lush Greens",
+        "gradient": "repeating-linear-gradient(60deg, #388e3c, #43a047 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Peach Sorbet",
+        "gradient": "repeating-linear-gradient(45deg, #ffab91, #f48fb1 30px, #ffab91 60px)"
+    },
+    {
+        "name": "Desert Mirage",
+        "gradient": "repeating-linear-gradient(90deg, #ff7043, #e64a19 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Tropical Breeze",
+        "gradient": "repeating-linear-gradient(135deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Mystic Lagoon",
+        "gradient": "repeating-linear-gradient(120deg, #00bcd4, #0097a7 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Dusky Rose",
+        "gradient": "repeating-linear-gradient(60deg, #d32f2f, #c2185b 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Citrus Wave",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #fbc02d 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Ocean Depths",
+        "gradient": "repeating-linear-gradient(90deg, #01579b, #0288d1 30px, #01579b 60px)"
+    },
+    {
+        "name": "Moonlit Path",
+        "gradient": "repeating-linear-gradient(135deg, #607d8b, #78909c 30px, #607d8b 60px)"
+    },
+    {
+        "name": "Lavender Dreams",
+        "gradient": "repeating-linear-gradient(120deg, #ab47bc, #8e24aa 30px, #ab47bc 60px)"
+    },
+    {
+        "name": "Blazing Sunset",
+        "gradient": "repeating-linear-gradient(60deg, #ff5722, #e64a19 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Azure Glow",
+        "gradient": "repeating-linear-gradient(45deg, #1e88e5, #0288d1 30px, #1e88e5 60px)"
+    },
+    {
+        "name": "Flamingo Mist",
+        "gradient": "repeating-linear-gradient(90deg, #ff4081, #f50057 30px, #ff4081 60px)"
+    },
+    {
+        "name": "Tangerine Sky",
+        "gradient": "repeating-linear-gradient(135deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Frosted Lavender",
+        "gradient": "repeating-linear-gradient(120deg, #9c27b0, #7b1fa2 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Coral Bliss",
+        "gradient": "repeating-linear-gradient(60deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Emerald Path",
+        "gradient": "repeating-linear-gradient(45deg, #388e3c, #2e7d32 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Sunset Mirage",
+        "gradient": "repeating-linear-gradient(90deg, #ff7043, #f57c00 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Tropical Dreams",
+        "gradient": "repeating-linear-gradient(135deg, #00796b, #004d40 30px, #00796b 60px)"
+    },
+    {
+        "name": "Blush Horizon",
+        "gradient": "repeating-linear-gradient(120deg, #f8bbd0, #f06292 30px, #f8bbd0 60px)"
+    },
+    {
+        "name": "Nightfall Glow",
+        "gradient": "repeating-linear-gradient(60deg, #004d40, #00796b 30px, #004d40 60px)"
+    },
+    {
+        "name": "Tidal Wave",
+        "gradient": "repeating-linear-gradient(45deg, #1e88e5, #039be5 30px, #1e88e5 60px)"
+    },
+    {
+        "name": "Sapphire Chill",
+        "gradient": "repeating-linear-gradient(90deg, #283593, #3949ab 30px, #283593 60px)"
+    },
+    {
+        "name": "Lush Garden",
+        "gradient": "repeating-linear-gradient(135deg, #388e3c, #43a047 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Crimson Wave",
+        "gradient": "repeating-linear-gradient(120deg, #e53935, #d32f2f 30px, #e53935 60px)"
+    },
+    {
+        "name": "Lavender Sky",
+        "gradient": "repeating-linear-gradient(60deg, #673ab7, #512da8 30px, #673ab7 60px)"
+    },
+    {
+        "name": "Golden Hour",
+        "gradient": "repeating-linear-gradient(45deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Starry Night",
+        "gradient": "repeating-linear-gradient(90deg, #263238, #546e7a 30px, #263238 60px)"
+    },
+    {
+        "name": "Cobalt Dream",
+        "gradient": "repeating-linear-gradient(135deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Fiery Mirage",
+        "gradient": "repeating-linear-gradient(120deg, #ff5722, #ff3d00 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Sunset Horizon",
+        "gradient": "repeating-linear-gradient(45deg, #ff6f61, #ffb347 30px, #ff6f61 60px)"
+    },
+    {
+        "name": "Citrus Burst",
+        "gradient": "repeating-linear-gradient(90deg, #ffb74d, #ff9800 30px, #ffb74d 60px)"
+    },
+    {
+        "name": "Teal Mist",
+        "gradient": "repeating-linear-gradient(135deg, #00897b, #004d40 30px, #00897b 60px)"
+    },
+    {
+        "name": "Golden Twilight",
+        "gradient": "repeating-linear-gradient(120deg, #ffcc00, #ff9800 30px, #ffcc00 60px)"
+    },
+    {
+        "name": "Electric Dream",
+        "gradient": "repeating-linear-gradient(60deg, #9c27b0, #673ab7 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Tropical Sunset",
+        "gradient": "repeating-linear-gradient(45deg, #ff4081, #f50057 30px, #ff4081 60px)"
+    },
+    {
+        "name": "Oceanic Breeze",
+        "gradient": "repeating-linear-gradient(90deg, #01579b, #0288d1 30px, #01579b 60px)"
+    },
+    {
+        "name": "Pineapple Punch",
+        "gradient": "repeating-linear-gradient(135deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Lavender Mist",
+        "gradient": "repeating-linear-gradient(120deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Cherry Spice",
+        "gradient": "repeating-linear-gradient(60deg, #f44336, #d32f2f 30px, #f44336 60px)"
+    },
+    {
+        "name": "Peachy Keen",
+        "gradient": "repeating-linear-gradient(45deg, #ffb74d, #ff7043 30px, #ffb74d 60px)"
+    },
+    {
+        "name": "Coral Wave",
+        "gradient": "repeating-linear-gradient(90deg, #f44336, #e91e63 30px, #f44336 60px)"
+    },
+    {
+        "name": "Purple Rain",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #7b1fa2 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Turquoise Rush",
+        "gradient": "repeating-linear-gradient(120deg, #00bcd4, #0097a7 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Frosted Plum",
+        "gradient": "repeating-linear-gradient(60deg, #7e57c2, #673ab7 30px, #7e57c2 60px)"
+    },
+    {
+        "name": "Autumn Glow",
+        "gradient": "repeating-linear-gradient(45deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Pink Quartz",
+        "gradient": "repeating-linear-gradient(90deg, #f8bbd0, #f06292 30px, #f8bbd0 60px)"
+    },
+    {
+        "name": "Golden Ember",
+        "gradient": "repeating-linear-gradient(135deg, #f57c00, #ff9800 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Midnight Blue",
+        "gradient": "repeating-linear-gradient(120deg, #003366, #336699 30px, #003366 60px)"
+    },
+    {
+        "name": "Scarlet Flame",
+        "gradient": "repeating-linear-gradient(60deg, #d32f2f, #c2185b 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Cobalt Night",
+        "gradient": "repeating-linear-gradient(45deg, #01579b, #0288d1 30px, #01579b 60px)"
+    },
+    {
+        "name": "Amber Wave",
+        "gradient": "repeating-linear-gradient(90deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Green Essence",
+        "gradient": "repeating-linear-gradient(135deg, #388e3c, #43a047 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Dusty Rose",
+        "gradient": "repeating-linear-gradient(120deg, #e91e63, #f06292 30px, #e91e63 60px)"
+    },
+    {
+        "name": "Sunset Dream",
+        "gradient": "repeating-linear-gradient(60deg, #ff5722, #ff9800 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Azure Mirage",
+        "gradient": "repeating-linear-gradient(45deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Raspberry Delight",
+        "gradient": "repeating-linear-gradient(90deg, #d32f2f, #c2185b 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Violet Storm",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Lemonade Twist",
+        "gradient": "repeating-linear-gradient(120deg, #fbc02d, #ffeb3b 30px, #fbc02d 60px)"
+    },
+    {
+        "name": "Ruby Reflection",
+        "gradient": "repeating-linear-gradient(60deg, #d32f2f, #e91e63 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Emerald Oasis",
+        "gradient": "repeating-linear-gradient(45deg, #388e3c, #2e7d32 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Lavender Dream",
+        "gradient": "repeating-linear-gradient(90deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Coral Crush",
+        "gradient": "repeating-linear-gradient(135deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Electric Glow",
+        "gradient": "repeating-linear-gradient(45deg, #f50057, #ff4081 30px, #f50057 60px)"
+    },
+    {
+        "name": "Sunlit Peaks",
+        "gradient": "repeating-linear-gradient(90deg, #ff6f61, #ff9800 30px, #ff6f61 60px)"
+    },
+    {
+        "name": "Deep Sea",
+        "gradient": "repeating-linear-gradient(135deg, #004d40, #00796b 30px, #004d40 60px)"
+    },
+    {
+        "name": "Amethyst Dream",
+        "gradient": "repeating-linear-gradient(120deg, #9c27b0, #673ab7 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Tangerine Sky",
+        "gradient": "repeating-linear-gradient(60deg, #ff9800, #f57c00 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Crimson Sunset",
+        "gradient": "repeating-linear-gradient(45deg, #d32f2f, #ff1744 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Soft Coral",
+        "gradient": "repeating-linear-gradient(90deg, #ffb74d, #ff7043 30px, #ffb74d 60px)"
+    },
+    {
+        "name": "Lush Greenery",
+        "gradient": "repeating-linear-gradient(135deg, #388e3c, #43a047 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Tropical Breeze",
+        "gradient": "repeating-linear-gradient(120deg, #0288d1, #03a9f4 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Fiery Skies",
+        "gradient": "repeating-linear-gradient(60deg, #ff1744, #f50057 30px, #ff1744 60px)"
+    },
+    {
+        "name": "Misty Morning",
+        "gradient": "repeating-linear-gradient(45deg, #80deea, #4caf50 30px, #80deea 60px)"
+    },
+    {
+        "name": "Berry Delight",
+        "gradient": "repeating-linear-gradient(90deg, #d32f2f, #c2185b 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Desert Mirage",
+        "gradient": "repeating-linear-gradient(135deg, #f57c00, #ff9800 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Citrus Punch",
+        "gradient": "repeating-linear-gradient(120deg, #ffcc00, #ff9800 30px, #ffcc00 60px)"
+    },
+    {
+        "name": "Peach Sorbet",
+        "gradient": "repeating-linear-gradient(60deg, #ffb74d, #ff8a65 30px, #ffb74d 60px)"
+    },
+    {
+        "name": "Moonlit Waters",
+        "gradient": "repeating-linear-gradient(45deg, #01579b, #0288d1 30px, #01579b 60px)"
+    },
+    {
+        "name": "Lavender Fields",
+        "gradient": "repeating-linear-gradient(90deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Golden Hour",
+        "gradient": "repeating-linear-gradient(135deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Berry Breeze",
+        "gradient": "repeating-linear-gradient(120deg, #ff4081, #f50057 30px, #ff4081 60px)"
+    },
+    {
+        "name": "Emerald Lagoon",
+        "gradient": "repeating-linear-gradient(60deg, #388e3c, #43a047 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Spiced Cinnamon",
+        "gradient": "repeating-linear-gradient(45deg, #6d4c41, #8d6e63 30px, #6d4c41 60px)"
+    },
+    {
+        "name": "Midnight Velvet",
+        "gradient": "repeating-linear-gradient(90deg, #212121, #424242 30px, #212121 60px)"
+    },
+    {
+        "name": "Summer Dream",
+        "gradient": "repeating-linear-gradient(135deg, #ffcc00, #ffeb3b 30px, #ffcc00 60px)"
+    },
+    {
+        "name": "Berry Blush",
+        "gradient": "repeating-linear-gradient(120deg, #f06292, #ec407a 30px, #f06292 60px)"
+    },
+    {
+        "name": "Blue Ocean",
+        "gradient": "repeating-linear-gradient(60deg, #00bcd4, #0097a7 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Purple Rainstorm",
+        "gradient": "repeating-linear-gradient(45deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Tangerine Dream",
+        "gradient": "repeating-linear-gradient(90deg, #ff5722, #ff9800 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Raspberry Frost",
+        "gradient": "repeating-linear-gradient(135deg, #f50057, #d32f2f 30px, #f50057 60px)"
+    },
+    {
+        "name": "Pistachio Mist",
+        "gradient": "repeating-linear-gradient(120deg, #8bc34a, #7cb342 30px, #8bc34a 60px)"
+    },
+    {
+        "name": "Blueberry Bliss",
+        "gradient": "repeating-linear-gradient(60deg, #2196f3, #1976d2 30px, #2196f3 60px)"
+    },
+    {
+        "name": "Cobalt Rush",
+        "gradient": "repeating-linear-gradient(45deg, #01579b, #0288d1 30px, #01579b 60px)"
+    },
+    {
+        "name": "Crimson Blaze",
+        "gradient": "repeating-linear-gradient(90deg, #ff1744, #f50057 30px, #ff1744 60px)"
+    },
+    {
+        "name": "Autumn Maple",
+        "gradient": "repeating-linear-gradient(135deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Tropical Sunrise",
+        "gradient": "repeating-linear-gradient(90deg, #ff6f00, #ffb300 30px, #ff6f00 60px)"
+    },
+    {
+        "name": "Lime Glow",
+        "gradient": "repeating-linear-gradient(120deg, #cddc39, #8bc34a 30px, #cddc39 60px)"
+    },
+    {
+        "name": "Electric Pink",
+        "gradient": "repeating-linear-gradient(45deg, #ec407a, #f50057 30px, #ec407a 60px)"
+    },
+    {
+        "name": "Copper Aura",
+        "gradient": "repeating-linear-gradient(60deg, #3e2723, #5d4037 30px, #3e2723 60px)"
+    },
+    {
+        "name": "Summer Coral",
+        "gradient": "repeating-linear-gradient(90deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Mint Crush",
+        "gradient": "repeating-linear-gradient(135deg, #26a69a, #00bcd4 30px, #26a69a 60px)"
+    },
+    {
+        "name": "Frosted Lavender",
+        "gradient": "repeating-linear-gradient(120deg, #ab47bc, #9c27b0 30px, #ab47bc 60px)"
+    },
+    {
+        "name": "Autumn Glaze",
+        "gradient": "repeating-linear-gradient(45deg, #f57c00, #ff9800 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Moonlight Shine",
+        "gradient": "repeating-linear-gradient(90deg, #01579b, #0288d1 30px, #01579b 60px)"
+    },
+    {
+        "name": "Amber Glow",
+        "gradient": "repeating-linear-gradient(135deg, #ff8f00, #ffb300 30px, #ff8f00 60px)"
+    },
+    {
+        "name": "Midnight Lavender",
+        "gradient": "repeating-linear-gradient(120deg, #673ab7, #3f51b5 30px, #673ab7 60px)"
+    },
+    {
+        "name": "Sunset Horizon",
+        "gradient": "repeating-linear-gradient(45deg, #ff7043, #f4511e 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Peachy Pink",
+        "gradient": "repeating-linear-gradient(90deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Tangerine Burst",
+        "gradient": "repeating-linear-gradient(135deg, #ff5722, #ff9800 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Lush Pastel",
+        "gradient": "repeating-linear-gradient(120deg, #81c784, #66bb6a 30px, #81c784 60px)"
+    },
+    {
+        "name": "Plum Twilight",
+        "gradient": "repeating-linear-gradient(45deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Shimmering Blue",
+        "gradient": "repeating-linear-gradient(90deg, #1e88e5, #0288d1 30px, #1e88e5 60px)"
+    },
+    {
+        "name": "Golden Dust",
+        "gradient": "repeating-linear-gradient(135deg, #fbc02d, #fdd835 30px, #fbc02d 60px)"
+    },
+    {
+        "name": "Citrus Dream",
+        "gradient": "repeating-linear-gradient(120deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Fiery Flame",
+        "gradient": "repeating-linear-gradient(45deg, #ff1744, #f50057 30px, #ff1744 60px)"
+    },
+    {
+        "name": "Frosty Mint",
+        "gradient": "repeating-linear-gradient(90deg, #00bcd4, #26c6da 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Amber Sunset",
+        "gradient": "repeating-linear-gradient(135deg, #ff8f00, #ff6f00 30px, #ff8f00 60px)"
+    },
+    {
+        "name": "Dusty Rose",
+        "gradient": "repeating-linear-gradient(120deg, #f06292, #ec407a 30px, #f06292 60px)"
+    },
+    {
+        "name": "Cobalt Dream",
+        "gradient": "repeating-linear-gradient(45deg, #1976d2, #0288d1 30px, #1976d2 60px)"
+    },
+    {
+        "name": "Golden Horizon",
+        "gradient": "repeating-linear-gradient(90deg, #ff9800, #ffb74d 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Cool Breeze",
+        "gradient": "repeating-linear-gradient(135deg, #4caf50, #8bc34a 30px, #4caf50 60px)"
+    },
+    {
+        "name": "Mellow Yellow",
+        "gradient": "repeating-linear-gradient(120deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Sunset Coral",
+        "gradient": "repeating-linear-gradient(45deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Silver Wave",
+        "gradient": "repeating-linear-gradient(90deg, #90a4ae, #78909c 30px, #90a4ae 60px)"
+    },
+    {
+        "name": "Rustic Charm",
+        "gradient": "repeating-linear-gradient(135deg, #8d6e63, #6d4c41 30px, #8d6e63 60px)"
+    },
+    {
+        "name": "Crimson Radiance",
+        "gradient": "repeating-linear-gradient(120deg, #d32f2f, #b71c1c 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Lavender Mist",
+        "gradient": "repeating-linear-gradient(45deg, #9c27b0, #ab47bc 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Electric Violet",
+        "gradient": "repeating-linear-gradient(60deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Sunlit Path",
+        "gradient": "repeating-linear-gradient(120deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Frozen Blue",
+        "gradient": "repeating-linear-gradient(45deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Crimson Dawn",
+        "gradient": "repeating-linear-gradient(90deg, #ff1744, #f50057 30px, #ff1744 60px)"
+    },
+    {
+        "name": "Peachy Dreams",
+        "gradient": "repeating-linear-gradient(135deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Mystic Forest",
+        "gradient": "repeating-linear-gradient(120deg, #388e3c, #4caf50 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Lush Green",
+        "gradient": "repeating-linear-gradient(45deg, #43a047, #66bb6a 30px, #43a047 60px)"
+    },
+    {
+        "name": "Neon Mirage",
+        "gradient": "repeating-linear-gradient(90deg, #00e5ff, #00bcd4 30px, #00e5ff 60px)"
+    },
+    {
+        "name": "Golden Sunset",
+        "gradient": "repeating-linear-gradient(135deg, #ff9800, #f57c00 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Pink Aura",
+        "gradient": "repeating-linear-gradient(60deg, #f06292, #ec407a 30px, #f06292 60px)"
+    },
+    {
+        "name": "Crystal Sky",
+        "gradient": "repeating-linear-gradient(120deg, #03a9f4, #00bcd4 30px, #03a9f4 60px)"
+    },
+    {
+        "name": "Grape Vine",
+        "gradient": "repeating-linear-gradient(45deg, #673ab7, #5e35b1 30px, #673ab7 60px)"
+    },
+    {
+        "name": "Pink Flamingo",
+        "gradient": "repeating-linear-gradient(90deg, #ff4081, #f50057 30px, #ff4081 60px)"
+    },
+    {
+        "name": "Rose Gold",
+        "gradient": "repeating-linear-gradient(135deg, #d32f2f, #c2185b 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Citrus Sunrise",
+        "gradient": "repeating-linear-gradient(120deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Amethyst Bliss",
+        "gradient": "repeating-linear-gradient(45deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Turquoise Splash",
+        "gradient": "repeating-linear-gradient(90deg, #00bcd4, #26c6da 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Lavender Fields",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #ab47bc 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Amber Waves",
+        "gradient": "repeating-linear-gradient(120deg, #ff5722, #f4511e 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Ocean Breeze",
+        "gradient": "repeating-linear-gradient(45deg, #00bcd4, #26c6da 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Lime Burst",
+        "gradient": "repeating-linear-gradient(90deg, #8bc34a, #cddc39 30px, #8bc34a 60px)"
+    },
+    {
+        "name": "Cosmic Purple",
+        "gradient": "repeating-linear-gradient(135deg, #673ab7, #9c27b0 30px, #673ab7 60px)"
+    },
+    {
+        "name": "Sunset Glow",
+        "gradient": "repeating-linear-gradient(120deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Blueberry Jam",
+        "gradient": "repeating-linear-gradient(45deg, #2196f3, #1e88e5 30px, #2196f3 60px)"
+    },
+    {
+        "name": "Honey Drizzle",
+        "gradient": "repeating-linear-gradient(90deg, #ffb300, #ff9800 30px, #ffb300 60px)"
+    },
+    {
+        "name": "Frosty Mint",
+        "gradient": "repeating-linear-gradient(135deg, #26a69a, #00bcd4 30px, #26a69a 60px)"
+    },
+    {
+        "name": "Midnight Sky",
+        "gradient": "repeating-linear-gradient(120deg, #673ab7, #3f51b5 30px, #673ab7 60px)"
+    },
+    {
+        "name": "Tropical Punch",
+        "gradient": "repeating-linear-gradient(45deg, #ff9800, #f57c00 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Morning Dew",
+        "gradient": "repeating-linear-gradient(90deg, #b2dfdb, #80cbc4 30px, #b2dfdb 60px)"
+    },
+    {
+        "name": "Autumn Leaves",
+        "gradient": "repeating-linear-gradient(135deg, #c2185b, #8e24aa 30px, #c2185b 60px)"
+    },
+    {
+        "name": "Candy Cane",
+        "gradient": "repeating-linear-gradient(120deg, #ff1744, #f50057 30px, #ff1744 60px)"
+    },
+    {
+        "name": "Aurora Lights",
+        "gradient": "repeating-linear-gradient(45deg, #6a1b9a, #ab47bc 30px, #6a1b9a 60px)"
+    },
+    {
+        "name": "Sapphire Dream",
+        "gradient": "repeating-linear-gradient(90deg, #1e88e5, #42a5f5 30px, #1e88e5 60px)"
+    },
+    {
+        "name": "Citrus Zest",
+        "gradient": "repeating-linear-gradient(120deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Sunset Sky",
+        "gradient": "repeating-linear-gradient(135deg, #ff9800, #f57c00 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Minty Fresh",
+        "gradient": "repeating-linear-gradient(60deg, #26a69a, #00bcd4 30px, #26a69a 60px)"
+    },
+    {
+        "name": "Crimson Wave",
+        "gradient": "repeating-linear-gradient(90deg, #d32f2f, #c2185b 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Ocean Depths",
+        "gradient": "repeating-linear-gradient(135deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Golden Horizon",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Tropical Lagoon",
+        "gradient": "repeating-linear-gradient(90deg, #00796b, #004d40 30px, #00796b 60px)"
+    },
+    {
+        "name": "Violet Sunset",
+        "gradient": "repeating-linear-gradient(120deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Peach Sorbet",
+        "gradient": "repeating-linear-gradient(45deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Blue Lagoon",
+        "gradient": "repeating-linear-gradient(90deg, #00bcd4, #26c6da 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Jungle Green",
+        "gradient": "repeating-linear-gradient(135deg, #388e3c, #4caf50 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Cherry Blossom",
+        "gradient": "repeating-linear-gradient(60deg, #f06292, #ec407a 30px, #f06292 60px)"
+    },
+    {
+        "name": "Golden Sands",
+        "gradient": "repeating-linear-gradient(120deg, #fbc02d, #f57c00 30px, #fbc02d 60px)"
+    },
+    {
+        "name": "Limeade",
+        "gradient": "repeating-linear-gradient(90deg, #8bc34a, #cddc39 30px, #8bc34a 60px)"
+    },
+    {
+        "name": "Lavender Bliss",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #ab47bc 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Mango Tango",
+        "gradient": "repeating-linear-gradient(45deg, #ff5722, #f4511e 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Winter Frost",
+        "gradient": "repeating-linear-gradient(90deg, #80cbc4, #b2dfdb 30px, #80cbc4 60px)"
+    },
+    {
+        "name": "Coral Reef",
+        "gradient": "repeating-linear-gradient(120deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Royal Purple",
+        "gradient": "repeating-linear-gradient(45deg, #673ab7, #5e35b1 30px, #673ab7 60px)"
+    },
+    {
+        "name": "Electric Blue",
+        "gradient": "repeating-linear-gradient(90deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Grape Vine",
+        "gradient": "repeating-linear-gradient(135deg, #9c27b0, #673ab7 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Berry Mix",
+        "gradient": "repeating-linear-gradient(60deg, #d32f2f, #c2185b 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Tangerine Dream",
+        "gradient": "repeating-linear-gradient(120deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Cotton Candy",
+        "gradient": "repeating-linear-gradient(90deg, #f06292, #ec407a 30px, #f06292 60px)"
+    },
+    {
+        "name": "Mint Chill",
+        "gradient": "repeating-linear-gradient(135deg, #26a69a, #00bcd4 30px, #26a69a 60px)"
+    },
+    {
+        "name": "Glimmering Dawn",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Tropical Twist",
+        "gradient": "repeating-linear-gradient(90deg, #00c853, #00e676 30px, #00c853 60px)"
+    },
+    {
+        "name": "Cloudy Sky",
+        "gradient": "repeating-linear-gradient(120deg, #80deea, #26c6da 30px, #80deea 60px)"
+    },
+    {
+        "name": "Sunset Breeze",
+        "gradient": "repeating-linear-gradient(45deg, #ff7e5f, #feb47b 30px, #ff7e5f 60px)"
+    },
+    {
+        "name": "Glacier Peak",
+        "gradient": "repeating-linear-gradient(90deg, #80d3e8, #4db6ac 30px, #80d3e8 60px)"
+    },
+    {
+        "name": "Coral Sunset",
+        "gradient": "repeating-linear-gradient(135deg, #ff6f61, #ff9e6e 30px, #ff6f61 60px)"
+    },
+    {
+        "name": "Aqua Glow",
+        "gradient": "repeating-linear-gradient(60deg, #00bcd4, #00acc1 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Lavender Sky",
+        "gradient": "repeating-linear-gradient(120deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Peachy Keen",
+        "gradient": "repeating-linear-gradient(45deg, #ffab40, #ff9800 30px, #ffab40 60px)"
+    },
+    {
+        "name": "Frosted Mint",
+        "gradient": "repeating-linear-gradient(90deg, #26c6da, #00bcd4 30px, #26c6da 60px)"
+    },
+    {
+        "name": "Wildberry",
+        "gradient": "repeating-linear-gradient(135deg, #8e24aa, #c2185b 30px, #8e24aa 60px)"
+    },
+    {
+        "name": "Electric Lime",
+        "gradient": "repeating-linear-gradient(60deg, #00e676, #00c853 30px, #00e676 60px)"
+    },
+    {
+        "name": "Berry Punch",
+        "gradient": "repeating-linear-gradient(120deg, #ff4081, #f50057 30px, #ff4081 60px)"
+    },
+    {
+        "name": "Violet Dream",
+        "gradient": "repeating-linear-gradient(90deg, #9c27b0, #673ab7 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Oceanic Breeze",
+        "gradient": "repeating-linear-gradient(45deg, #039be5, #0288d1 30px, #039be5 60px)"
+    },
+    {
+        "name": "Tangerine Wave",
+        "gradient": "repeating-linear-gradient(135deg, #ff5722, #f4511e 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Grape Pop",
+        "gradient": "repeating-linear-gradient(60deg, #9c27b0, #673ab7 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Lush Green",
+        "gradient": "repeating-linear-gradient(120deg, #388e3c, #4caf50 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Fuchsia Bloom",
+        "gradient": "repeating-linear-gradient(90deg, #c2185b, #d81b60 30px, #c2185b 60px)"
+    },
+    {
+        "name": "Rose Quartz",
+        "gradient": "repeating-linear-gradient(45deg, #f48fb1, #f06292 30px, #f48fb1 60px)"
+    },
+    {
+        "name": "Turquoise Dream",
+        "gradient": "repeating-linear-gradient(135deg, #00bcd4, #0097a7 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Sunflower Delight",
+        "gradient": "repeating-linear-gradient(60deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Crimson Horizon",
+        "gradient": "repeating-linear-gradient(120deg, #d32f2f, #c2185b 30px, #d32f2f 60px)"
+    },
+    {
+        "name": "Mystic Night",
+        "gradient": "repeating-linear-gradient(90deg, #673ab7, #5e35b1 30px, #673ab7 60px)"
+    },
+    {
+        "name": "Citrus Burst",
+        "gradient": "repeating-linear-gradient(45deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Ocean Breeze",
+        "gradient": "repeating-linear-gradient(135deg, #1e88e5, #42a5f5 30px, #1e88e5 60px)"
+    },
+    {
+        "name": "Sunset Delight",
+        "gradient": "repeating-linear-gradient(60deg, #ff7e5f, #feb47b 30px, #ff7e5f 60px)"
+    },
+    {
+        "name": "Cobalt Wave",
+        "gradient": "repeating-linear-gradient(120deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Cherry Pop",
+        "gradient": "repeating-linear-gradient(90deg, #e57373, #f44336 30px, #e57373 60px)"
+    },
+    {
+        "name": "Lemon Drop",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Minty Breeze",
+        "gradient": "repeating-linear-gradient(135deg, #00c853, #00e676 30px, #00c853 60px)"
+    },
+    {
+        "name": "Bubblegum Pink",
+        "gradient": "repeating-linear-gradient(60deg, #f06292, #ec407a 30px, #f06292 60px)"
+    },
+    {
+        "name": "Crimson Sky",
+        "gradient": "repeating-linear-gradient(120deg, #ff4081, #f50057 30px, #ff4081 60px)"
+    },
+    {
+        "name": "Frozen Ocean",
+        "gradient": "repeating-linear-gradient(90deg, #80d3e8, #4db6ac 30px, #80d3e8 60px)"
+    },
+    {
+        "name": "Sapphire Glow",
+        "gradient": "repeating-linear-gradient(45deg, #2a4d7c, #4e74b2 30px, #2a4d7c 60px)"
+    },
+    {
+        "name": "Autumn Leaves",
+        "gradient": "repeating-linear-gradient(90deg, #f57c00, #ffb300 30px, #f57c00 60px)"
+    },
+    {
+        "name": "Golden Sunset",
+        "gradient": "repeating-linear-gradient(135deg, #ffcc00, #ff9800 30px, #ffcc00 60px)"
+    },
+    {
+        "name": "Tropical Paradise",
+        "gradient": "repeating-linear-gradient(60deg, #00c853, #76ff03 30px, #00c853 60px)"
+    },
+    {
+        "name": "Lavender Blossom",
+        "gradient": "repeating-linear-gradient(120deg, #9c27b0, #ab47bc 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Crimson Wave",
+        "gradient": "repeating-linear-gradient(45deg, #e53935, #d32f2f 30px, #e53935 60px)"
+    },
+    {
+        "name": "Cloudy Sky",
+        "gradient": "repeating-linear-gradient(90deg, #81d4fa, #4fc3f7 30px, #81d4fa 60px)"
+    },
+    {
+        "name": "Vivid Tropics",
+        "gradient": "repeating-linear-gradient(135deg, #00bcd4, #009688 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Dusky Rose",
+        "gradient": "repeating-linear-gradient(60deg, #f06292, #f48fb1 30px, #f06292 60px)"
+    },
+    {
+        "name": "Mint Sorbet",
+        "gradient": "repeating-linear-gradient(120deg, #a5d6a7, #81c784 30px, #a5d6a7 60px)"
+    },
+    {
+        "name": "Neon Night",
+        "gradient": "repeating-linear-gradient(90deg, #000000, #6200ea 30px, #000000 60px)"
+    },
+    {
+        "name": "Lime Shimmer",
+        "gradient": "repeating-linear-gradient(45deg, #76ff03, #66bb6a 30px, #76ff03 60px)"
+    },
+    {
+        "name": "Golden Peach",
+        "gradient": "repeating-linear-gradient(135deg, #ff7043, #ffb74d 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Blue Horizon",
+        "gradient": "repeating-linear-gradient(60deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Flamingo Sky",
+        "gradient": "repeating-linear-gradient(120deg, #ff4081, #f50057 30px, #ff4081 60px)"
+    },
+    {
+        "name": "Purple Fusion",
+        "gradient": "repeating-linear-gradient(90deg, #9c27b0, #673ab7 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Electric Violet",
+        "gradient": "repeating-linear-gradient(45deg, #8e24aa, #7b1fa2 30px, #8e24aa 60px)"
+    },
+    {
+        "name": "Cool Mist",
+        "gradient": "repeating-linear-gradient(135deg, #80d3e8, #00bcd4 30px, #80d3e8 60px)"
+    },
+    {
+        "name": "Crimson Kiss",
+        "gradient": "repeating-linear-gradient(60deg, #e57373, #f44336 30px, #e57373 60px)"
+    },
+    {
+        "name": "Aqua Vibe",
+        "gradient": "repeating-linear-gradient(120deg, #00bcd4, #00acc1 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Rose Petal",
+        "gradient": "repeating-linear-gradient(90deg, #f48fb1, #ff80ab 30px, #f48fb1 60px)"
+    },
+    {
+        "name": "Sky High",
+        "gradient": "repeating-linear-gradient(45deg, #00c6ff, #0072ff 30px, #00c6ff 60px)"
+    },
+    {
+        "name": "Golden Hour",
+        "gradient": "repeating-linear-gradient(135deg, #ff5722, #ff7043 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Pineapple Mist",
+        "gradient": "repeating-linear-gradient(60deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Sugar Plum",
+        "gradient": "repeating-linear-gradient(120deg, #ab47bc, #9c27b0 30px, #ab47bc 60px)"
+    },
+    {
+        "name": "Frostbite",
+        "gradient": "repeating-linear-gradient(90deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Tangerine Sunset",
+        "gradient": "repeating-linear-gradient(45deg, #ff5722, #ff9800 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Snowy Day",
+        "gradient": "repeating-linear-gradient(135deg, #bbdefb, #90caf9 30px, #bbdefb 60px)"
+    },
+    {
+        "name": "Ocean Tide",
+        "gradient": "repeating-linear-gradient(60deg, #00bcd4, #00acc1 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Crimson Glow",
+        "gradient": "repeating-linear-gradient(120deg, #c2185b, #d81b60 30px, #c2185b 60px)"
+    },
+    {
+        "name": "Wildflower",
+        "gradient": "repeating-linear-gradient(90deg, #4caf50, #81c784 30px, #4caf50 60px)"
+    },
+    {
+        "name": "Midnight Breeze",
+        "gradient": "repeating-linear-gradient(45deg, #2c3e50, #34495e 30px, #2c3e50 60px)"
+    },
+    {
+        "name": "Sunset Mirage",
+        "gradient": "repeating-linear-gradient(90deg, #e74c3c, #f39c12 30px, #e74c3c 60px)"
+    },
+    {
+        "name": "Tropical Dawn",
+        "gradient": "repeating-linear-gradient(135deg, #00bcd4, #4caf50 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Citrus Burst",
+        "gradient": "repeating-linear-gradient(60deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Stormy Sky",
+        "gradient": "repeating-linear-gradient(120deg, #607d8b, #455a64 30px, #607d8b 60px)"
+    },
+    {
+        "name": "Peachy Delight",
+        "gradient": "repeating-linear-gradient(45deg, #ffb74d, #ff7043 30px, #ffb74d 60px)"
+    },
+    {
+        "name": "Purple Dream",
+        "gradient": "repeating-linear-gradient(90deg, #8e24aa, #9c27b0 30px, #8e24aa 60px)"
+    },
+    {
+        "name": "Morning Dew",
+        "gradient": "repeating-linear-gradient(135deg, #81c784, #66bb6a 30px, #81c784 60px)"
+    },
+    {
+        "name": "Blue Lagoon",
+        "gradient": "repeating-linear-gradient(60deg, #00acc1, #26c6da 30px, #00acc1 60px)"
+    },
+    {
+        "name": "Lavender Field",
+        "gradient": "repeating-linear-gradient(120deg, #ab47bc, #ba68c8 30px, #ab47bc 60px)"
+    },
+    {
+        "name": "Sandy Beach",
+        "gradient": "repeating-linear-gradient(45deg, #ffeb3b, #ff9800 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Fiery Ember",
+        "gradient": "repeating-linear-gradient(90deg, #ff5722, #d32f2f 30px, #ff5722 60px)"
+    },
+    {
+        "name": "Mint Breeze",
+        "gradient": "repeating-linear-gradient(135deg, #4caf50, #81c784 30px, #4caf50 60px)"
+    },
+    {
+        "name": "Sunset Flame",
+        "gradient": "repeating-linear-gradient(60deg, #f44336, #ff5722 30px, #f44336 60px)"
+    },
+    {
+        "name": "Violet Pulse",
+        "gradient": "repeating-linear-gradient(120deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Cloudy Dream",
+        "gradient": "repeating-linear-gradient(45deg, #00bcd4, #26c6da 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Frosted Mint",
+        "gradient": "repeating-linear-gradient(90deg, #80cbc4, #4db6ac 30px, #80cbc4 60px)"
+    },
+    {
+        "name": "Glowing Sunset",
+        "gradient": "repeating-linear-gradient(135deg, #ff7043, #ffcc00 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Red Velvet",
+        "gradient": "repeating-linear-gradient(60deg, #c2185b, #d81b60 30px, #c2185b 60px)"
+    },
+    {
+        "name": "Ocean Depths",
+        "gradient": "repeating-linear-gradient(120deg, #0288d1, #039be5 30px, #0288d1 60px)"
+    },
+    {
+        "name": "Golden Touch",
+        "gradient": "repeating-linear-gradient(45deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Pink Candy",
+        "gradient": "repeating-linear-gradient(90deg, #f48fb1, #f06292 30px, #f48fb1 60px)"
+    },
+    {
+        "name": "Jungle Fever",
+        "gradient": "repeating-linear-gradient(135deg, #388e3c, #4caf50 30px, #388e3c 60px)"
+    },
+    {
+        "name": "Starry Night",
+        "gradient": "repeating-linear-gradient(60deg, #0d47a1, #1565c0 30px, #0d47a1 60px)"
+    },
+    {
+        "name": "Tangerine Glow",
+        "gradient": "repeating-linear-gradient(120deg, #ff9800, #ff5722 30px, #ff9800 60px)"
+    },
+    {
+        "name": "Icy Blue",
+        "gradient": "repeating-linear-gradient(45deg, #00bcd4, #03a9f4 30px, #00bcd4 60px)"
+    },
+    {
+        "name": "Grape Crush",
+        "gradient": "repeating-linear-gradient(90deg, #9c27b0, #8e24aa 30px, #9c27b0 60px)"
+    },
+    {
+        "name": "Sunshine Day",
+        "gradient": "repeating-linear-gradient(135deg, #ffeb3b, #fbc02d 30px, #ffeb3b 60px)"
+    },
+    {
+        "name": "Coral Reef",
+        "gradient": "repeating-linear-gradient(60deg, #ff7043, #ff5722 30px, #ff7043 60px)"
+    },
+    {
+        "name": "Blue Rush",
+        "gradient": "repeating-linear-gradient(120deg, #1e88e5, #039be5 30px, #1e88e5 60px)"
+    },
+    {
+        "name": "Misty Morning",
+        "gradient": "repeating-linear-gradient(45deg, #90caf9, #81d4fa 30px, #90caf9 60px)"
+    },
+    {
+        "name": "Berry Smoothie",
+        "gradient": "repeating-linear-gradient(90deg, #d32f2f, #f44336 30px, #d32f2f 60px)"
     }
     
     
